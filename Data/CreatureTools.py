@@ -12,18 +12,35 @@ class creature:
         self.min = min
         self.max = max
     
-
+    def getNPC(self):
+        df = beastiary_to_dataframe()
+        mask = df['Traits'].apply(lambda x: 'humanoid' in x)
+        npcs =df[mask]
+        return(npcs)
+    
     def getRandomMonster(self):
         if self.min is None or self.max is None:
             raise ValueError("Minimum and maximum levels must be provided.")
-        df = beastiary_to_dataframe()
-        mask = (df['Level'] >= self.min) & (df['Level'] <= self.max)
-        rangedf =df[mask]
-        rc =rangedf.sample(n=1)
-        out = rc[['Name','Level']].to_string(index=False)
+        
+        elif self.npc:
+            df = self.getNPC()
+            mask = (df['Level'] >= self.min) & (df['Level'] <= self.max)
+            rangedf =df[mask]
+            rc =rangedf.sample(n=1)
+            out = rc[['Name','Level']].to_string(index=False)
 
-        print(out)
+            print(out)            
+        else:
+            df = beastiary_to_dataframe()
+            mask = (df['Level'] >= self.min) & (df['Level'] <= self.max)
+            rangedf =df[mask]
+            rc =rangedf.sample(n=1)
+            out2 = rc[['Name','Level']].to_string(index=False)
+
+            print(out2)
     
 if __name__ == "__main__":
     C1 = creature(min=-1, max = 3)
     C1.getRandomMonster()
+    C2 = creature(npc=True, min =7 , max =12)
+    C2.getRandomMonster()

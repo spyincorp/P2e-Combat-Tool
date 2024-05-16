@@ -1,1207 +1,1207 @@
-Name,Level
-Animated Broom,-1
-Bloodseeker,-1
-Clockwork Spy,-1
-Common Eurypterid,-1
-Compsognathus,-1
-Crawling Hand,-1
-Eagle,-1
-Flash Beetle,-1
-Giant Centipede,-1
-Giant Rat,-1
-Goblin Warrior,-1
-Grimple,-1
-Guard Dog,-1
-Haniver,-1
-Kobold Warrior,-1
-Mitflit,-1
-Monkey,-1
-Nyktera,-1
-Phantasmal Minion,-1
-Pufferfish,-1
-Raven,-1
-Red Fox,-1
-Severed Head,-1
-Skeleton Guard,-1
-Skunk,-1
-Snapping Turtle,-1
-Sprite,-1
-Three-Toed Sloth,-1
-Tooth Fairy,-1
-Trilobite,-1
-Viper,-1
-Weasel,-1
-Yellow Musk Thrall,-1
-Zombie Shambler,-1
-Air Wisp,0
-Badger,0
-Blue-Ringed Octopus,0
-Bottlenose Dolphin,0
-Dream Spider,0
-Duergar Sharpshooter,0
-Earth Wisp,0
-Fire Wisp,0
-Giant Maggot,0
-Grindylow,0
-Homunculus,0
-Ioton,0
-Kangaroo,0
-Leaf Leshy,0
-Lemure,0
-Melixie,0
-Orc Brute,0
-Pugwampi,0
-Riding Pony,0
-Ringhorn Ram,0
-Sea Snake,0
-Spear Frog,0
-Spider Swarm,0
-Stingray,0
-Vampire Squid,0
-Vine Leshy,0
-Water Wisp,0
-Air Mephit,1
-Akata,1
-Amoeba Swarm,1
-Animated Silverware Swarm,1
-Arbiter,1
-Augur,1
-Ball Python,1
-Boggard Scout,1
-Brownie,1
-Cacodaemon,1
-Caligni Dancer,1
-Camel,1
-Carbuncle,1
-Cassisian,1
-Catfolk Pouncer,1
-Cave Scorpion,1
-Coral Capuchin,1
-Cunning Fox,1
-Cythnigot,1
-Deep Gnome Scout,1
-Doru,1
-Drow Fighter,1
-Duergar Bombardier,1
-Dust Mephit,1
-Earth Mephit,1
-Electric Eel,1
-Esipil,1
-Festrog,1
-Fetchling Scout,1
-Fire Mephit,1
-Flumph,1
-Fuath,1
-Gathlain Wanderer,1
-Ghoul,1
-Giant Amoeba,1
-Giant Cockroach,1
-Giant Fly,1
-Giant Frog,1
-Giant Gecko,1
-Giant Skunk,1
-Giant Solifugid,1
-Giant Tick,1
-Goblin Commando,1
-Goblin Dog,1
-Goblin Pyro,1
-Goblin War Chanter,1
-Gourd Leshy,1
-Grig,1
-Grioth Scout,1
-Grippli Scout,1
-Hippocampus,1
-Hobgoblin Soldier,1
-House Drake,1
-Hunting Spider,1
-Hyena,1
-Ice Mephit,1
-Ifrit Pyrochemist,1
-Imp,1
-Jinkin,1
-Kobold Scout,1
-Lantern Archon,1
-Lizardfolk Defender,1
-Lizardfolk Scout,1
-Lyrakien,1
-Manta Ray,1
-Merfolk Warrior,1
-Naiad,1
-Nixie,1
-Nosoi,1
-Ooze Mephit,1
-Orc Warrior,1
-Oread Guard,1
-Ostovite,1
-Petitioner (Abaddon),1
-Petitioner (Abyss),1
-Petitioner (Astral Plane),1
-Petitioner (Axis),1
-Petitioner (Boneyard),1
-Petitioner (Dead Vault),1
-Petitioner (Dimension of Dreams),1
-Petitioner (Elysium),1
-Petitioner (Ethereal Plane),1
-Petitioner (Heaven),1
-Petitioner (Hell),1
-Petitioner (Maelstrom),1
-Petitioner (Material Plane),1
-Petitioner (Nirvana),1
-Petitioner (Plane of Air),1
-Petitioner (Plane of Earth),1
-Petitioner (Plane of Fire),1
-Petitioner (Plane of Water),1
-Petitioner (Positive Energy Plane),1
-Petitioner (Shadow Plane),1
-Plague Zombie,1
-Quasit,1
-Raktavarna,1
-Rat Swarm,1
-Reef Octopus,1
-Reefclaw,1
-Riding Dog,1
-Riding Horse,1
-Samsaran Anchorite,1
-Sewer Ooze,1
-Shaukeen,1
-Shikigami,1
-Silvanshee,1
-Skulk,1
-Squirrel Swarm,1
-Steam Mephit,1
-Stheno Harpist,1
-Suli Dune Dancer,1
-Sunflower Leshy,1
-Sylph Sneak,1
-Undine Hydromancer,1
-Vampire Bat Swarm,1
-Vanara Disciple,1
-Velociraptor,1
-Vexgit,1
-Void Zombie,1
-Voidworm,1
-War Pony,1
-Water Mephit,1
-Wayang Whisperblade,1
-Wolf,1
-Wyrwood Sneak,1
-Xulgath Warrior,1
-Yzobu,1
-Android Infiltrator,2
-Angheuvore Flesh-Gnawer,2
-Animated Armor,2
-Azarketi Explorer,2
-Azer,2
-Black Bear,2
-Blindheim,2
-Blink Dog,2
-Boar,2
-Bog Strider,2
-Boggard Warrior,2
-Bugbear Thug,2
-Cactus Leshy,2
-Caligni Creeper,2
-Cave Fisher,2
-Choker,2
-Cobbleswarm,2
-Cockroach Swarm,2
-Crocodile,2
-Deep Gnome Warrior,2
-Deinonychus,2
-Dero Stalker,2
-Dhampir Wizard,2
-Domovoi,2
-Draugr,2
-Dretch,2
-Drow Rogue,2
-Duende,2
-Duergar Taskmaster,2
-Ember Fox,2
-Envyspawn,2
-Fading Fox,2
-Faerie Dragon,2
-Flaming Skull,2
-Fungus Leshy,2
-Ghast,2
-Giant Ant,2
-Giant Badger,2
-Giant Bat,2
-Giant Crab,2
-Giant Flying Squirrel,2
-Giant Leech,2
-Giant Monitor Lizard,2
-Giant Opossum,2
-Giant Porcupine,2
-Giant Toad,2
-Giant Viper,2
-Gluttonyspawn,2
-Gnoll Hunter,2
-Greedspawn,2
-Herexen,2
-Hippogriff,2
-Icicle Snake,2
-Incutilis,2
-Ittan-Momen,2
-Kappa,2
-Kitsune Trickster,2
-Kobold Dragon Mage (Black),2
-Kobold Dragon Mage (Blue),2
-Kobold Dragon Mage (Green),2
-Kobold Dragon Mage (Red),2
-Kobold Dragon Mage (White),2
-Ledalusca,2
-Leopard,2
-Leprechaun,2
-Living Boulder,2
-Lizardfolk Stargazer,2
-Lustspawn,2
-Merfolk Wavecaller,2
-Monkey Swarm,2
-Morlock,2
-Mudwretch,2
-Munavri Spellblade,2
-Nagaji Soldier,2
-Nuglub,2
-Orc Warchief,2
-Pridespawn,2
-Pteranodon,2
-Rat Snake Swarm,2
-Rokurokubi,2
-Rosethorn Ram,2
-Sasquatch,2
-Sea Devil Scout,2
-Shadow Drake,2
-Shocker Lizard,2
-Skeletal Champion,2
-Skeletal Horse,2
-Skum,2
-Slime Mold,2
-Slothspawn,2
-Slurk,2
-Soulbound Doll (Chaotic Evil),2
-Soulbound Doll (Chaotic Good),2
-Soulbound Doll (Chaotic Neutral),2
-Soulbound Doll (Lawful Evil),2
-Soulbound Doll (Lawful Good),2
-Soulbound Doll (Lawful Neutral),2
-Soulbound Doll (Neutral Evil),2
-Soulbound Doll (Neutral Good),2
-Soulbound Doll (True Neutral),2
-Spark Bat,2
-Squirming Swill,2
-Stone Lion Cub,2
-Strix Kinmate,2
-Tatzlwyrm,2
-Tengu Sneak,2
-Terror Bird,2
-Triton,2
-War Horse,2
-Warg,2
-Werebat,2
-Wereboar,2
-Werecrocodile,2
-Wererat,2
-Wolverine,2
-Wrathspawn,2
-Xulgath Skulker,2
-Yellow Musk Brute,2
-Yellow Musk Creeper,2
-Zombie Brute,2
-Zyss Serpentfolk,2
-Aapoph Serpentfolk,3
-Akizendri,3
-Animated Statue,3
-Ankhrav,3
-Assassin Vine,3
-Boggard Swampseer,3
-Brine Shark,3
-Bugbear Tormentor,3
-Bunyip,3
-Buso Farmer,3
-Caligni Slayer,3
-Centaur,3
-Centipede Swarm,3
-Changeling Exile,3
-Chupacabra,3
-Cinder Rat,3
-Cockatrice,3
-D'ziriak,3
-Dero Strangler,3
-Dire Wolf,3
-Doppelganger,3
-Draxie,3
-Drow Priestess,3
-Dryad,3
-Dvorovoi,3
-Esobok,3
-Fen Mosquito Swarm,3
-Ganzi Martial Artist,3
-Gelatinous Cube,3
-Ghoran Manipulator,3
-Giant Chameleon,3
-Giant Dragonfly Nymph,3
-Giant Eagle,3
-Giant Mantis,3
-Giant Scorpion,3
-Giant Seahorse,3
-Giant Vulture,3
-Giant Wasp,3
-Giant Whiptail Centipede,3
-Gnoll Cultist,3
-Gorilla,3
-Grioth Cultist,3
-Grizzly Bear,3
-Grothlut,3
-Hell Hound,3
-Hyaenodon,3
-Kovintus Geomancer,3
-Lion,3
-Living Graffiti (Blood),3
-Living Graffiti (Chalk),3
-Living Graffiti (Ink),3
-Living Graffiti (Oil),3
-Locathah Hunter,3
-Megalictis,3
-Moose,3
-Narwhal,3
-Necrophidius,3
-Ogre Warrior,3
-Pachycephalosaurus,3
-Pegasus,3
-Piranha Swarm,3
-Platecarpus,3
-Quickling,3
-Raven Swarm,3
-River Drake,3
-Rust Monster,3
-Scalescribe,3
-Sea Hag,3
-Seaweed Leshy,3
-Shulsaga,3
-Skeletal Giant,3
-Snapping Flytrap,3
-Sod Hound,3
-Spriggan Bully,3
-Street Skelm,3
-Tattoo Guardian,3
-Tiefling Adept,3
-Tooth Fairy Swarm,3
-Trailgaunt,3
-Trilobite Swarm,3
-Trollhound,3
-Twigjack,3
-Unicorn,3
-Urdefhan Warrior,3
-Vampiric Mist,3
-Violet Fungus,3
-Vishkanya Infiltrator,3
-Web Lurker,3
-Werewolf,3
-Wight,3
-Wolliped,3
-Xulgath Leader,3
-Yeth Hound,3
-Zebub,3
-Zephyr Hawk,3
-Abrikandilu,4
-Aghash,4
-Amphisbaena,4
-Aphorite Sharpshooter,4
-Arboreal Warden,4
-Attic Whisperer,4
-Barghest,4
-Bison,4
-Brood Leech Swarm,4
-Cairn Wight,4
-Calathgar,4
-Caligni Stalker,4
-Carrion Golem,4
-Coil Spy,4
-Corrupted Relic,4
-Daeodon,4
-Duskwalker Ghost Hunter,4
-Earthen Destrier,4
-Faceless Stalker,4
-Filth Fire,4
-Flytrap Leshy,4
-Frost Troll,4
-Gancanagh,4
-Gargoyle,4
-Ghost Commoner,4
-Giant Dragonfly,4
-Giant Pangolin,4
-Giant Stag Beetle,4
-Giant Wolverine,4
-Gnoll Sergeant,4
-Gray Ooze,4
-Great White Shark,4
-Green Hag,4
-Griffon,4
-Hadrosaurid,4
-Hellbound Attorney,4
-Hermit Crab Swarm,4
-Hobgoblin Archer,4
-Horned Archon,4
-Hound Archon,4
-Huldra,4
-Janni,4
-Kapoacinth,4
-Kasa-Obake,4
-Kelpie,4
-Korred,4
-Kushtaka,4
-Living Thunderclap,4
-Lovelorn,4
-Mandragora,4
-Mimic,4
-Minotaur,4
-Mist Stalker,4
-Myceloid,4
-Nightgaunt,4
-Nucol,4
-Ogre Glutton,4
-Otyugh,4
-Ovinnik,4
-Owlbear,4
-Peryton,4
-Phantom Knight,4
-Pixie,4
-Poracha,4
-Ratfolk Grenadier,4
-Rhinoceros,4
-Satyr,4
-Scarecrow,4
-Scorpion Swarm,4
-Sea Devil Brute,4
-Shabti Redeemer,4
-Shadow,4
-Shae,4
-Shambler Troop,4
-Stone Lion,4
-Terror Shrike,4
-Tiger,4
-Vampire Spawn Rogue,4
-Viper Swarm,4
-Wasp Swarm,4
-Werebear,4
-Weretiger,4
-Aasimar Redeemer,5
-Army Ant Swarm,5
-Azuretzi,5
-Barbazu,5
-Basidirond,5
-Basilisk,5
-Bog Mummy,5
-Bore Worm Swarm,5
-Brimorak,5
-Caligni Vanguard,5
-Catrina,5
-Cecaelia Trapper,5
-City Guard Squadron,5
-Cloaker,5
-Cyclops,5
-Dandasuka,5
-Deep Gnome Rockwarden,5
-Dero Magister,5
-Dig-Widget,5
-Divine Warden Of Nethys,5
-Djinni,5
-Emperor Cobra,5
-Ether Spider,5
-Eunemvro,5
-Flame Drake,5
-Giant Crawling Hand,5
-Giant Frilled Lizard,5
-Giant Hermit Crab,5
-Giant Moray Eel,5
-Gibbering Mouther,5
-Globster,5
-Grimstalker,5
-Grodair,5
-Harpy,5
-Harpy Skeleton,5
-Hieracosphinx,5
-Hippopotamus,5
-Ice Golem,5
-Ice Worm Swarm,5
-Kodama,5
-Lampad,5
-Lava Worm Swarm,5
-Leucrotta,5
-Living Landslide,5
-Living Waterfall,5
-Living Whirlwind,5
-Living Wildfire,5
-Lurker In Light,5
-Mage-Eater Worm Swarm,5
-Megatherium,5
-Namorrodor,5
-Necral Worm Swarm,5
-Ochre Jelly,5
-Ogre Spider,5
-Orca,5
-Ostiarius,5
-Penanggalan,5
-Polar Bear,5
-Poltergeist,5
-Redcap,5
-Sabosan,5
-Shrine Skelm,5
-Skaveling,5
-Skinstitch,5
-Spiny Eurypterid,5
-Storm Hag,5
-Troll,5
-Urdefhan Tormentor,5
-Winter Wolf,5
-Wizard Sponge,5
-Wizard Sponge (Crypt),5
-Wizard Sponge (Fey Domain),5
-Wizard Sponge (Fiendish Temple),5
-Wizard Sponge (Toxic Lair),5
-Wizard Sponge (Underwater),5
-Yeti,5
-Abandoned Zealot,6
-Ahuizotl,6
-Ankylosaurus,6
-Annis Hag,6
-Awakened Tree,6
-Babau,6
-Baobhan Sith,6
-Bauble Beast,6
-Belker,6
-Blizzardborn,6
-Blodeuwedd,6
-Bralani,6
-Caligni Caller,6
-Cave Bear,6
-Cave Giant,6
-Cavern Troll,6
-Ceustodaemon,6
-Choral,6
-Chouchin-Obake,6
-Clockwork Soldier,6
-Drider,6
-Elananx,6
-Ettin,6
-Evangelist,6
-Fire Jellyfish Swarm,6
-Giant Mosquito,6
-Giant Tarantula,6
-Gurgist Mauler,6
-Hobgoblin General,6
-Hodag,6
-Hydra,6
-Iguanodon,6
-Jungle Drake,6
-Kurobozu,6
-Lamia,6
-Lunar Naga,6
-Maftet Guardian,6
-Manticore,6
-Mi-Go,6
-Mummy Guardian,6
-Nightmare,6
-Owb,6
-Revenant,6
-Rhu-Chalik,6
-Sand Sentry,6
-Scythe Tree,6
-Sea Devil Baron,6
-Sea Drake,6
-Shambler,6
-Skrik Nettle,6
-Skull Peeler,6
-Smilodon,6
-Striding Fire,6
-Sulfur Zombie,6
-Terra-Cotta Soldier,6
-Umasi,6
-Vampire Count,6
-Verdurous Ooze,6
-Vrykolakas Spawn,6
-Vulpinal,6
-White Dragon (Young),6
-"White Dragon (Young, Spellcaster)",6
-Wihsaak,6
-Will-o'-Wisp,6
-Witchwyrd,6
-Wood Giant,6
-Wood Golem,6
-Woolly Rhinoceros,6
-Wraith,6
-Wyvern,6
-Xill,6
-Zombie Hulk,6
-Adhukait,7
-Alghollthu Master,7
-Arboreal Reaper,7
-Black Dragon (Young),7
-"Black Dragon (Young, Spellcaster)",7
-Black Pudding,7
-Brass Dragon (Young),7
-"Brass Dragon (Young, Spellcaster)",7
-Caulborn,7
-Chuul,7
-Crossroads Guardian,7
-Crystal Dragon (Young),7
-"Crystal Dragon (Young, Spellcaster)",7
-Culdewen,7
-Dark Naga,7
-Drainberry Bush,7
-Dullahan,7
-Dweomercat,7
-Elasmosaurus,7
-Elephant,7
-Empress Bore Worm,7
-Empress Ice Worm,7
-Empress Lava Worm,7
-Empress Mage-Eater Worm,7
-Empress Necral Worm,7
-Fortune Eater,7
-Frost Drake,7
-Giant Animated Statue,7
-Giant Jellyfish,7
-Greater Barghest,7
-Greater Shadow,7
-Hellcat,7
-Hill Giant,7
-Hound Of Tindalos,7
-Invidiak,7
-Invisible Stalker,7
-Kirin,7
-Lantern Archon (Gestalt),7
-Legion Archon,7
-Levaloch,7
-Lillend,7
-Manticore Paaridar,7
-Medusa,7
-Megalania,7
-Mothman,7
-Naiad Queen,7
-Naunet,7
-Ogre Boss,7
-Pairaka,7
-Pukwudgie,7
-Quatoid,7
-Quetzalcoatlus,7
-Remorhaz,7
-Salamander,7
-Sceaduinar,7
-Shaitan,7
-Shoggti,7
-Skeletal Hulk,7
-Slithering Pit,7
-Soul Eater,7
-Specter,7
-Sportlebore Swarm,7
-Spriggan Warlord,7
-Stegosaurus,7
-Stygira,7
-Succubus,7
-Tendriculos,7
-Theletos,7
-Tiddalik,7
-Totenmaske,7
-Tupilaq,7
-Underworld Dragon (Young),7
-"Underworld Dragon (Young, Spellcaster)",7
-Vanth,7
-Winter Hag,7
-Xorn,7
-Zetogeki,7
-Anancus,8
-Angazhani,8
-Animate Dream,8
-Arboreal Regent,8
-Axiomite,8
-Balisse,8
-Behir,8
-Blood Hag,8
-Bodak,8
-Bone Prophet,8
-Brain Collector,8
-Brine Dragon (Young),8
-"Brine Dragon (Young, Spellcaster)",8
-Bulette,8
-Chimera (Black),8
-Chimera (Blue),8
-Chimera (Green),8
-Chimera (Red),8
-Chimera (White),8
-Copper Dragon (Young),8
-"Copper Dragon (Young, Spellcaster)",8
-Denizen of Leng,8
-Desert Drake,8
-Destrachan,8
-Erinys,8
-Flesh Golem,8
-Giant Anaconda,8
-Giant Hippocampus,8
-Giant Octopus,8
-Giant Slug,8
-Girtablilu Sentry,8
-Glass Golem,8
-Gorgon,8
-Granite Glyptodont,8
-Green Dragon (Young),8
-"Green Dragon (Young, Spellcaster)",8
-Guecubu,8
-Hadrinnex,8
-Hellknight Cavalry Brigade,8
-Hellwasp Swarm,8
-Hive Mother,8
-Intellect Devourer,8
-Kishi,8
-Krooth,8
-Lamia Matriarch,8
-Lifeleecher Brawler,8
-Magma Scorpion,8
-Marsh Giant,8
-Megaprimatus,8
-Mix Couatl,8
-Mohrg,8
-Moonflower,8
-Nabasu,8
-Nosferatu Thrall,8
-Onidoshi,8
-Palace Skelm,8
-Phantom Beast,8
-Procyal,8
-Sandpoint Devil,8
-Sarglagon,8
-Sea Dragon (Young),8
-"Sea Dragon (Young, Spellcaster)",8
-Shantak,8
-Sphinx,8
-Stone Giant,8
-Triceratops,8
-Two-Headed Troll,8
-Tylosaurus,8
-Alchemical Golem,9
-Animated Furnace,9
-Aurumvorax,9
-Baykok,9
-Black Dracolisk,9
-Blood Painter,9
-Blue Dracolisk,9
-Blue Dragon (Young),9
-"Blue Dragon (Young, Spellcaster)",9
-Bronze Dragon (Young),9
-"Bronze Dragon (Young, Spellcaster)",9
-Clockwork Mage,9
-Deinosuchus,9
-Desert Giant,9
-Dragon Turtle,9
-Drakauthix,9
-Dread Wraith,9
-Efreeti,9
-Firewyrm,9
-Frost Giant,9
-Galvo,9
-Garuda,9
-Giant Snapping Turtle,9
-Giant Squid,9
-Gliminal,9
-Green Dracolisk,9
-Hesperid,9
-Irnakurse,9
-Jyoti,9
-Khravgodon,9
-Leukodaemon,9
-Magma Dragon (Young),9
-"Magma Dragon (Young, Spellcaster)",9
-Marid,9
-Mastodon,9
-Megalodon,9
-Mokele-Mbembe,9
-Mummy Pharaoh,9
-Nessian Warhound,9
-Night Hag,9
-Nuckelavee,9
-Osyluth,9
-Pakalchi,9
-Red Dracolisk,9
-Roc,9
-Roiling Incant (Evocation),9
-Sky Dragon (Young),9
-"Sky Dragon (Young, Spellcaster)",9
-Spirit Naga,9
-Stone Mauler,9
-Storm Lord,9
-Tick Swarm,9
-Tidal Master,9
-Tikbalang,9
-Titan Centipede,9
-Tyrannosaurus Skeleton,9
-Vampire Mastermind,9
-Vrock,9
-White Dracolisk,9
-Witchfire,9
-Yithian,9
-Zelekhut,9
-Zombie Dragon,9
-Adlet,10
-Bebilith,10
-Behemoth Hippopotamus,10
-Brontosaurus,10
-Chyzaedu,10
-Clacking Sea Skull Swarm,10
-Clacking Skull Swarm,10
-Clay Golem,10
-Cloud Dragon (Young),10
-"Cloud Dragon (Young, Spellcaster)",10
-Dezullon,10
-Einherji,10
-Etioling Blightmage,10
-Feathered Bear,10
-Fire Giant,10
-Forest Dragon (Young),10
-"Forest Dragon (Young, Spellcaster)",10
-Ghonhatine,10
-Ghost Mage,10
-Giant Flytrap,10
-Graveknight,10
-Guardian Naga,10
-Gug,10
-Icewyrm,10
-Imentesh,10
-Leng Ghoul,10
-Mammoth,10
-Melody On The Wind,10
-Mobogo,10
-Moon Hag,10
-Movanic Deva,10
-Nereid,10
-Nilith,10
-Nosferatu Malefactor,10
-Nyogoth,10
-Ofalth,10
-Peluda,10
-Phistophilus,10
-Piscodaemon,10
-Quetz Couatl,10
-Quintessivore,10
-Raja Rakshasa,10
-Red Dragon (Young),10
-"Red Dragon (Young, Spellcaster)",10
-Roper,10
-Sacristan,10
-Shield Archon,10
-Silver Dragon (Young),10
-"Silver Dragon (Young, Spellcaster)",10
-Soul Skelm,10
-Swordkeeper,10
-Troll King,10
-Tyrannosaurus,10
-Vrykolakas Master,10
-Water Orm,10
-White Dragon (Adult),10
-"White Dragon (Adult, Spellcaster)",10
-Zuishin,10
-Black Dragon (Adult),11
-"Black Dragon (Adult, Spellcaster)",11
-Brainchild,11
-Brass Dragon (Adult),11
-"Brass Dragon (Adult, Spellcaster)",11
-Cloud Giant,11
-Crystal Dragon (Adult),11
-"Crystal Dragon (Adult, Spellcaster)",11
-Deadly Mantis,11
-Devourer,11
-Elemental Avalanche,11
-Elemental Hurricane,11
-Elemental Inferno,11
-Elemental Tsunami,11
-Gold Dragon (Young),11
-"Gold Dragon (Young, Spellcaster)",11
-Goliath Spider,11
-Gosreg,11
-Greater Nightmare,11
-Hamatula,11
-Harmona,11
-Hezrou,11
-Isqulug,11
-Kongamato,11
-Meladaemon,11
-Munagola,11
-Quoppopak,11
-Rancorous Priesthood,11
-Seething Spirit,11
-Skeleton Infantry,11
-Sovereign Dragon (Young),11
-"Sovereign Dragon (Young, Spellcaster)",11
-Spinosaurus,11
-Spiral Centurion,11
-Stone Golem,11
-Thunderbird,11
-Umbral Dragon (Young),11
-"Umbral Dragon (Young, Spellcaster)",11
-Underworld Dragon (Adult),11
-"Underworld Dragon (Adult, Spellcaster)",11
-Arboreal Archive,12
-Athach,12
-Betobeto-San,12
-Brine Dragon (Adult),12
-"Brine Dragon (Adult, Spellcaster)",12
-Calikang,12
-Catoblepas,12
-Cauthooj,12
-Chernobue,12
-Copper Dragon (Adult),12
-"Copper Dragon (Adult, Spellcaster)",12
-Derghodaemon,12
-Feral Sea Skull Swarm,12
-Feral Skull Swarm,12
-Fossil Golem,12
-Frost Worm,12
-Gimmerling,12
-Girtablilu Seer,12
-Gogiteth,12
-Great Cyclops,12
-Green Dragon (Adult),12
-"Green Dragon (Adult, Spellcaster)",12
-Interlocutor,12
-Japalisura,12
-Kokogiak,12
-Kolyarut,12
-Lich,12
-Misery Siktempora,12
-Monadic Deva,12
-Omox,12
-Rusalka,12
-Sea Dragon (Adult),12
-"Sea Dragon (Adult, Spellcaster)",12
-Sea Serpent,12
-Shining Child,12
-Shuln,12
-Taiga Giant,12
-Tidehawk,12
-Tomb Giant,12
-Valkyrie,12
-Xiuh Couatl,12
-Adachros,13
-Amalgamite,13
-Animated Trebuchet,13
-Blue Dragon (Adult),13
-"Blue Dragon (Adult, Spellcaster)",13
-Bronze Dragon (Adult),13
-"Bronze Dragon (Adult, Spellcaster)",13
-Carnivorous Blob,13
-Consonite Choir,13
-Dryad Queen,13
-Froghemoth,13
-Gelugon,13
-Ghaele,13
-Glabrezu,13
-Ice Yai,13
-Irlgaunt,13
-Iron Golem,13
-Jorogumo,13
-Leng Spider,13
-Living Rune (Arcane),13
-Living Rune (Divine),13
-Living Rune (Occult),13
-Living Rune (Primal),13
-Magma Dragon (Adult),13
-"Magma Dragon (Adult, Spellcaster)",13
-Millindemalion,13
-Owb Prophet,13
-Purple Worm,13
-Shadow Giant,13
-Sky Dragon (Adult),13
-"Sky Dragon (Adult, Spellcaster)",13
-Storm Giant,13
-Terra-Cotta Garrison,13
-Thanadaemon,13
-Viper Vine,13
-Vrykolakas Ancient,13
-Ankou,14
-Astral Deva,14
-Augnagar,14
-Cloud Dragon (Adult),14
-"Cloud Dragon (Adult, Spellcaster)",14
-Crag Linnorm,14
-Doprillu,14
-Dramofir,14
-Fire Yai,14
-Forest Dragon (Adult),14
-"Forest Dragon (Adult, Spellcaster)",14
-Grikkitog,14
-Gylou,14
-Kuchisake-Onna,14
-Mezlan,14
-Nalfeshnee,14
-Nightmarchers,14
-Nikaramsa,14
-Peri,14
-Plague Giant,14
-Ravener Husk,14
-Red Dragon (Adult),14
-"Red Dragon (Adult, Spellcaster)",14
-Sepid,14
-Silver Dragon (Adult),14
-"Silver Dragon (Adult, Spellcaster)",14
-Sorcerous Sea Skull Swarm,14
-Sorcerous Skull Swarm,14
-Triumph Siktempora,14
-Trumpet Archon,14
-Uthul,14
-Veiled Master,14
-Worm That Walks Cultist,14
-Animated Colossus,15
-Azure Worm,15
-Black Scorpion,15
-Demilich,15
-Dybbuk,15
-Gold Dragon (Adult),15
-"Gold Dragon (Adult, Spellcaster)",15
-Hyakume,15
-Jotund Troll,15
-Lampad Queen,15
-Marrmora,15
-Marut,15
-Morrigna,15
-Mukradi,15
-Nemhaith,15
-Neothelid,15
-Nosferatu Overlord,15
-Phoenix,15
-Popobawa,15
-Quelaunt,15
-Shoal Linnorm,15
-Sovereign Dragon (Adult),15
-"Sovereign Dragon (Adult, Spellcaster)",15
-Tolokand,15
-Toshigami,15
-Umbral Dragon (Adult),15
-"Umbral Dragon (Adult, Spellcaster)",15
-Umonlee,15
-Wemmuth,15
-White Dragon (Ancient),15
-"White Dragon (Ancient, Spellcaster)",15
-Astradaemon,16
-Black Dragon (Ancient),16
-"Black Dragon (Ancient, Spellcaster)",16
-Brass Dragon (Ancient),16
-"Brass Dragon (Ancient, Spellcaster)",16
-Bythos,16
-Clockwork Dragon,16
-Cornugon,16
-Crystal Dragon (Ancient),16
-"Crystal Dragon (Ancient, Spellcaster)",16
-Elder Sphinx,16
-Fjord Linnorm,16
-Lesser Death,16
-Love Siktempora,16
-Mithral Golem,16
-Planetar,16
-Rune Giant,16
-Shemhazian,16
-Sumbreiva,16
-Underworld Dragon (Ancient),16
-"Underworld Dragon (Ancient, Spellcaster)",16
-Vilderavn,16
-Warsworn,16
-Zaramuun,16
-Zomok,16
-Banshee,17
-Brine Dragon (Ancient),17
-"Brine Dragon (Ancient, Spellcaster)",17
-Copper Dragon (Ancient),17
-"Copper Dragon (Ancient, Spellcaster)",17
-Deimavigga,17
-Green Dragon (Ancient),17
-"Green Dragon (Ancient, Spellcaster)",17
-Ice Linnorm,17
-Keketar,17
-Leydroth,17
-Marilith,17
-Radiant Warden,17
-Sea Dragon (Ancient),17
-"Sea Dragon (Ancient, Spellcaster)",17
-Thrasfyr,17
-Vaspercham,17
-Water Yai,17
-Wendigo,17
-Wyrmwraith,17
-Ximtal,17
-Adamantine Golem,18
-Aolaz,18
-Blue Dragon (Ancient),18
-"Blue Dragon (Ancient, Spellcaster)",18
-Bone Ship,18
-Bronze Dragon (Ancient),18
-"Bronze Dragon (Ancient, Spellcaster)",18
-Cairn Linnorm,18
-Crimson Worm,18
-Duneshaker Solifugid,18
-Hatred Siktempora,18
-Kraken,18
-Magma Dragon (Ancient),18
-"Magma Dragon (Ancient, Spellcaster)",18
-Purrodaemon,18
-Shoggoth,18
-Simurgh,18
-Skulltaker,18
-Sky Dragon (Ancient),18
-"Sky Dragon (Ancient, Spellcaster)",18
-Thulgant,18
-Cloud Dragon (Ancient),19
-"Cloud Dragon (Ancient, Spellcaster)",19
-Forest Dragon (Ancient),19
-"Forest Dragon (Ancient, Spellcaster)",19
-Grendel,19
-Guthallath,19
-Hesperid Queen,19
-Red Dragon (Ancient),19
-"Red Dragon (Ancient, Spellcaster)",19
-Sard,19
-Silver Dragon (Ancient),19
-"Silver Dragon (Ancient, Spellcaster)",19
-Star Archon,19
-Sturzstromer,19
-Taiga Linnorm,19
-Terotricus,19
-Tzitzimitl,19
-Vrolikai,19
-Balor,20
-Baomal,20
-Bastion Archon,20
-Draconal (Black),20
-Draconal (Green),20
-Draconal (Red),20
-Draconal (White),20
-Draconal (Yellow),20
-Eremite,20
-Gold Dragon (Ancient),20
-"Gold Dragon (Ancient, Spellcaster)",20
-Kimenhul,20
-Maharaja,20
-Norn,20
-Olethrodaemon,20
-Pit Fiend,20
-Pleroma,20
-Sovereign Dragon (Ancient),20
-"Sovereign Dragon (Ancient, Spellcaster)",20
-Tarn Linnorm,20
-Umbral Dragon (Ancient),20
-"Umbral Dragon (Ancient, Spellcaster)",20
-Veranallia,20
-Yamaraj,20
-Elysian Titan,21
-Grim Reaper,21
-Krampus,21
-Lerritan,21
-Mu Spore,21
-Ouroboros,21
-Ravener,21
-Tor Linnorm,21
-Thanatotic Titan,22
-Danava Titan,23
-Elder Wyrmwraith,23
-Jabberwock,23
-Solar,23
-Green Man,24
-Hekatonkheires Titan,24
-Treerazer,25
+Name,Level,Traits
+Animated Broom,-1,"['construct', 'mindless']"
+Bloodseeker,-1,['animal']
+Clockwork Spy,-1,"['clockwork', 'construct', 'mindless']"
+Common Eurypterid,-1,"['amphibious', 'animal']"
+Compsognathus,-1,"['animal', 'dinosaur']"
+Crawling Hand,-1,"['evil', 'undead', 'unholy']"
+Eagle,-1,['animal']
+Flash Beetle,-1,['animal']
+Giant Centipede,-1,['animal']
+Giant Rat,-1,['animal']
+Goblin Warrior,-1,"['chaotic', 'evil', 'goblin', 'humanoid']"
+Grimple,-1,"['chaotic', 'evil', 'fey', 'gremlin']"
+Guard Dog,-1,['animal']
+Haniver,-1,"['amphibious', 'chaotic', 'evil', 'fey', 'gremlin']"
+Kobold Warrior,-1,"['evil', 'humanoid', 'kobold', 'lawful']"
+Mitflit,-1,"['evil', 'fey', 'gremlin', 'lawful']"
+Monkey,-1,['animal']
+Nyktera,-1,"['fey', 'good', 'sprite']"
+Phantasmal Minion,-1,"['force', 'mindless']"
+Pufferfish,-1,"['animal', 'aquatic']"
+Raven,-1,['animal']
+Red Fox,-1,['animal']
+Severed Head,-1,"['evil', 'mindless', 'undead', 'unholy']"
+Skeleton Guard,-1,"['evil', 'mindless', 'skeleton', 'undead', 'unholy']"
+Skunk,-1,['animal']
+Snapping Turtle,-1,['animal']
+Sprite,-1,"['chaotic', 'fey', 'sprite']"
+Three-Toed Sloth,-1,['animal']
+Tooth Fairy,-1,"['chaotic', 'evil', 'fey']"
+Trilobite,-1,"['animal', 'aquatic']"
+Viper,-1,['animal']
+Weasel,-1,['animal']
+Yellow Musk Thrall,-1,"['mindless', 'plant']"
+Zombie Shambler,-1,"['evil', 'mindless', 'undead', 'unholy', 'zombie']"
+Air Wisp,0,"['air', 'elemental']"
+Badger,0,['animal']
+Blue-Ringed Octopus,0,"['animal', 'aquatic']"
+Bottlenose Dolphin,0,['animal']
+Dream Spider,0,['animal']
+Duergar Sharpshooter,0,"['duergar', 'dwarf', 'evil', 'humanoid', 'lawful']"
+Earth Wisp,0,"['earth', 'elemental']"
+Fire Wisp,0,"['elemental', 'fire']"
+Giant Maggot,0,['animal']
+Grindylow,0,"['aberration', 'amphibious', 'chaotic', 'evil']"
+Homunculus,0,['construct']
+Ioton,0,"['astral', 'incorporeal']"
+Kangaroo,0,['animal']
+Leaf Leshy,0,"['leshy', 'plant']"
+Lemure,0,"['devil', 'evil', 'fiend', 'lawful', 'mindless', 'unholy']"
+Melixie,0,"['chaotic', 'fey', 'sprite']"
+Orc Brute,0,"['chaotic', 'evil', 'humanoid', 'orc']"
+Pugwampi,0,"['evil', 'fey', 'gremlin']"
+Riding Pony,0,['animal']
+Ringhorn Ram,0,['animal']
+Sea Snake,0,['animal']
+Spear Frog,0,['animal']
+Spider Swarm,0,"['animal', 'swarm']"
+Stingray,0,"['animal', 'aquatic']"
+Vampire Squid,0,"['animal', 'aquatic']"
+Vine Leshy,0,"['leshy', 'plant']"
+Water Wisp,0,"['elemental', 'water']"
+Air Mephit,1,"['air', 'elemental']"
+Akata,1,['aberration']
+Amoeba Swarm,1,"['amphibious', 'mindless', 'ooze', 'swarm']"
+Animated Silverware Swarm,1,"['construct', 'mindless', 'swarm']"
+Arbiter,1,"['aeon', 'inevitable', 'lawful', 'monitor']"
+Augur,1,"['evil', 'fiend', 'lawful', 'unholy', 'velstrac']"
+Ball Python,1,['animal']
+Boggard Scout,1,"['amphibious', 'boggard', 'chaotic', 'evil', 'humanoid']"
+Brownie,1,['fey']
+Cacodaemon,1,"['daemon', 'evil', 'fiend', 'unholy']"
+Caligni Dancer,1,"['caligni', 'chaotic', 'humanoid']"
+Camel,1,['animal']
+Carbuncle,1,['beast']
+Cassisian,1,"['angel', 'celestial', 'good', 'holy']"
+Catfolk Pouncer,1,"['catfolk', 'chaotic', 'good', 'humanoid']"
+Cave Scorpion,1,['animal']
+Coral Capuchin,1,"['amphibious', 'beast']"
+Cunning Fox,1,"['beast', 'incorporeal', 'spirit']"
+Cythnigot,1,"['chaotic', 'evil', 'fiend', 'qlippoth', 'unholy']"
+Deep Gnome Scout,1,"['gnome', 'humanoid']"
+Doru,1,"['div', 'evil', 'fiend', 'lawful', 'unholy']"
+Drow Fighter,1,"['chaotic', 'drow', 'elf', 'evil', 'humanoid']"
+Duergar Bombardier,1,"['duergar', 'dwarf', 'evil', 'humanoid', 'lawful']"
+Dust Mephit,1,"['air', 'earth', 'elemental']"
+Earth Mephit,1,"['earth', 'elemental']"
+Electric Eel,1,"['animal', 'aquatic']"
+Esipil,1,"['evil', 'fiend', 'sahkil', 'unholy']"
+Festrog,1,"['evil', 'undead', 'unholy']"
+Fetchling Scout,1,"['fetchling', 'humanoid', 'shadow']"
+Fire Mephit,1,"['elemental', 'fire']"
+Flumph,1,"['aberration', 'good', 'lawful']"
+Fuath,1,"['aquatic', 'chaotic', 'evil', 'fey', 'gremlin']"
+Gathlain Wanderer,1,"['chaotic', 'fey', 'good', 'plant']"
+Ghoul,1,"['chaotic', 'evil', 'ghoul', 'undead', 'unholy']"
+Giant Amoeba,1,"['amphibious', 'mindless', 'ooze']"
+Giant Cockroach,1,['animal']
+Giant Fly,1,['animal']
+Giant Frog,1,['animal']
+Giant Gecko,1,['animal']
+Giant Skunk,1,['animal']
+Giant Solifugid,1,['animal']
+Giant Tick,1,['animal']
+Goblin Commando,1,"['chaotic', 'evil', 'goblin', 'humanoid']"
+Goblin Dog,1,['animal']
+Goblin Pyro,1,"['chaotic', 'evil', 'goblin', 'humanoid']"
+Goblin War Chanter,1,"['chaotic', 'evil', 'goblin', 'humanoid']"
+Gourd Leshy,1,"['leshy', 'plant']"
+Grig,1,"['chaotic', 'fey', 'sprite']"
+Grioth Scout,1,"['chaotic', 'evil', 'grioth', 'humanoid']"
+Grippli Scout,1,"['grippli', 'humanoid']"
+Hippocampus,1,"['animal', 'aquatic']"
+Hobgoblin Soldier,1,"['evil', 'goblin', 'humanoid', 'lawful']"
+House Drake,1,"['chaotic', 'dragon', 'good']"
+Hunting Spider,1,['animal']
+Hyena,1,['animal']
+Ice Mephit,1,"['air', 'elemental', 'water']"
+Ifrit Pyrochemist,1,"['evil', 'human', 'humanoid', 'lawful', 'naari']"
+Imp,1,"['devil', 'evil', 'fiend', 'lawful', 'unholy']"
+Jinkin,1,"['chaotic', 'evil', 'fey', 'gremlin']"
+Kobold Scout,1,"['evil', 'humanoid', 'kobold', 'lawful']"
+Lantern Archon,1,"['archon', 'celestial', 'good', 'holy', 'lawful']"
+Lizardfolk Defender,1,"['humanoid', 'lizardfolk']"
+Lizardfolk Scout,1,"['humanoid', 'lizardfolk']"
+Lyrakien,1,"['azata', 'celestial', 'chaotic', 'good', 'holy']"
+Manta Ray,1,"['animal', 'aquatic']"
+Merfolk Warrior,1,"['aquatic', 'humanoid', 'merfolk']"
+Naiad,1,"['amphibious', 'chaotic', 'fey', 'good', 'nymph', 'water']"
+Nixie,1,"['aquatic', 'fey']"
+Nosoi,1,"['monitor', 'psychopomp']"
+Ooze Mephit,1,"['earth', 'elemental', 'water']"
+Orc Warrior,1,"['chaotic', 'evil', 'humanoid', 'orc']"
+Oread Guard,1,"['human', 'humanoid', 'lawful', 'oread']"
+Ostovite,1,"['chaotic', 'evil', 'fiend', 'unholy']"
+Petitioner (Abaddon),1,"['evil', 'fiend', 'petitioner', 'unholy']"
+Petitioner (Abyss),1,"['chaotic', 'evil', 'fiend', 'petitioner', 'unholy']"
+Petitioner (Astral Plane),1,['petitioner']
+Petitioner (Axis),1,"['lawful', 'monitor', 'petitioner']"
+Petitioner (Boneyard),1,"['monitor', 'petitioner']"
+Petitioner (Dead Vault),1,"['chaotic', 'evil', 'petitioner']"
+Petitioner (Dimension of Dreams),1,"['dream', 'petitioner']"
+Petitioner (Elysium),1,"['chaotic', 'good', 'petitioner']"
+Petitioner (Ethereal Plane),1,"['ethereal', 'petitioner']"
+Petitioner (Heaven),1,"['celestial', 'good', 'holy', 'lawful', 'petitioner']"
+Petitioner (Hell),1,"['evil', 'fiend', 'lawful', 'petitioner', 'unholy']"
+Petitioner (Maelstrom),1,"['chaotic', 'monitor', 'petitioner']"
+Petitioner (Material Plane),1,['petitioner']
+Petitioner (Nirvana),1,"['celestial', 'good', 'holy', 'petitioner']"
+Petitioner (Plane of Air),1,"['air', 'petitioner']"
+Petitioner (Plane of Earth),1,"['earth', 'petitioner']"
+Petitioner (Plane of Fire),1,"['fire', 'petitioner']"
+Petitioner (Plane of Water),1,['petitioner']
+Petitioner (Positive Energy Plane),1,"['good', 'petitioner', 'vitality']"
+Petitioner (Shadow Plane),1,"['evil', 'fiend', 'petitioner', 'unholy']"
+Plague Zombie,1,"['evil', 'mindless', 'undead', 'unholy', 'zombie']"
+Quasit,1,"['chaotic', 'demon', 'evil', 'fiend', 'unholy']"
+Raktavarna,1,"['evil', 'fiend', 'lawful', 'rakshasa', 'unholy']"
+Rat Swarm,1,"['animal', 'swarm']"
+Reef Octopus,1,"['animal', 'aquatic']"
+Reefclaw,1,"['aberration', 'aquatic', 'chaotic']"
+Riding Dog,1,['animal']
+Riding Horse,1,['animal']
+Samsaran Anchorite,1,"['humanoid', 'samsaran']"
+Sewer Ooze,1,"['mindless', 'ooze']"
+Shaukeen,1,"['asura', 'evil', 'fiend', 'lawful', 'unholy']"
+Shikigami,1,"['kami', 'lawful', 'spirit']"
+Silvanshee,1,"['agathion', 'celestial', 'good', 'holy']"
+Skulk,1,"['chaotic', 'evil', 'humanoid', 'skulk']"
+Squirrel Swarm,1,"['animal', 'swarm']"
+Steam Mephit,1,"['elemental', 'fire', 'water']"
+Stheno Harpist,1,"['humanoid', 'stheno']"
+Suli Dune Dancer,1,"['human', 'humanoid', 'suli']"
+Sunflower Leshy,1,"['leshy', 'plant']"
+Sylph Sneak,1,"['chaotic', 'good', 'human', 'humanoid', 'sylph']"
+Undine Hydromancer,1,"['amphibious', 'chaotic', 'good', 'human', 'humanoid', 'undine']"
+Vampire Bat Swarm,1,"['animal', 'swarm']"
+Vanara Disciple,1,"['good', 'humanoid', 'lawful', 'vanara']"
+Velociraptor,1,"['animal', 'dinosaur']"
+Vexgit,1,"['evil', 'fey', 'gremlin', 'lawful']"
+Void Zombie,1,['undead']
+Voidworm,1,"['chaotic', 'monitor', 'protean']"
+War Pony,1,['animal']
+Water Mephit,1,"['aquatic', 'elemental', 'water']"
+Wayang Whisperblade,1,"['humanoid', 'shadow', 'wayang']"
+Wolf,1,['animal']
+Wyrwood Sneak,1,"['construct', 'wyrwood']"
+Xulgath Warrior,1,"['chaotic', 'evil', 'humanoid', 'xulgath']"
+Yzobu,1,['animal']
+Android Infiltrator,2,"['android', 'humanoid']"
+Angheuvore Flesh-Gnawer,2,"['elf', 'evil', 'humanoid', 'mortic']"
+Animated Armor,2,"['construct', 'mindless']"
+Azarketi Explorer,2,"['amphibious', 'azarketi', 'chaotic', 'humanoid']"
+Azer,2,"['elemental', 'fire', 'humanoid', 'lawful']"
+Black Bear,2,['animal']
+Blindheim,2,['animal']
+Blink Dog,2,"['beast', 'good', 'lawful']"
+Boar,2,['animal']
+Bog Strider,2,['aberration']
+Boggard Warrior,2,"['amphibious', 'boggard', 'chaotic', 'evil', 'humanoid']"
+Bugbear Thug,2,"['evil', 'goblin', 'humanoid']"
+Cactus Leshy,2,"['leshy', 'plant']"
+Caligni Creeper,2,"['caligni', 'chaotic', 'humanoid']"
+Cave Fisher,2,['animal']
+Choker,2,"['aberration', 'chaotic', 'evil']"
+Cobbleswarm,2,"['aberration', 'earth', 'swarm']"
+Cockroach Swarm,2,"['animal', 'swarm']"
+Crocodile,2,['animal']
+Deep Gnome Warrior,2,"['gnome', 'humanoid']"
+Deinonychus,2,"['animal', 'dinosaur']"
+Dero Stalker,2,"['chaotic', 'dero', 'evil', 'humanoid']"
+Dhampir Wizard,2,"['dhampir', 'evil', 'human', 'humanoid']"
+Domovoi,2,"['chaotic', 'fey', 'good']"
+Draugr,2,"['chaotic', 'evil', 'undead', 'unholy', 'water']"
+Dretch,2,"['chaotic', 'demon', 'evil', 'fiend', 'unholy']"
+Drow Rogue,2,"['chaotic', 'drow', 'elf', 'evil', 'humanoid']"
+Duende,2,"['chaotic', 'earth', 'fey']"
+Duergar Taskmaster,2,"['duergar', 'dwarf', 'evil', 'humanoid', 'lawful']"
+Ember Fox,2,"['elemental', 'fire', 'good']"
+Envyspawn,2,"['aberration', 'evil']"
+Fading Fox,2,['animal']
+Faerie Dragon,2,"['chaotic', 'dragon', 'good']"
+Flaming Skull,2,"['evil', 'mindless', 'undead', 'unholy']"
+Fungus Leshy,2,"['fungus', 'leshy']"
+Ghast,2,"['chaotic', 'evil', 'ghoul', 'undead', 'unholy']"
+Giant Ant,2,['animal']
+Giant Badger,2,['animal']
+Giant Bat,2,['animal']
+Giant Crab,2,"['animal', 'aquatic']"
+Giant Flying Squirrel,2,['animal']
+Giant Leech,2,"['amphibious', 'animal']"
+Giant Monitor Lizard,2,['animal']
+Giant Opossum,2,['animal']
+Giant Porcupine,2,['animal']
+Giant Toad,2,['animal']
+Giant Viper,2,['animal']
+Gluttonyspawn,2,"['aberration', 'evil']"
+Gnoll Hunter,2,"['chaotic', 'evil', 'gnoll', 'humanoid']"
+Greedspawn,2,"['aberration', 'evil']"
+Herexen,2,"['evil', 'undead', 'unholy']"
+Hippogriff,2,['animal']
+Icicle Snake,2,"['cold', 'elemental', 'water']"
+Incutilis,2,"['aberration', 'amphibious', 'evil', 'lawful']"
+Ittan-Momen,2,['kami']
+Kappa,2,"['amphibious', 'beast', 'chaotic']"
+Kitsune Trickster,2,"['chaotic', 'humanoid', 'kitsune']"
+Kobold Dragon Mage (Black),2,"['evil', 'humanoid', 'kobold', 'lawful']"
+Kobold Dragon Mage (Blue),2,"['evil', 'humanoid', 'kobold', 'lawful']"
+Kobold Dragon Mage (Green),2,"['evil', 'humanoid', 'kobold', 'lawful']"
+Kobold Dragon Mage (Red),2,"['evil', 'humanoid', 'kobold', 'lawful']"
+Kobold Dragon Mage (White),2,"['evil', 'humanoid', 'kobold', 'lawful']"
+Ledalusca,2,"['cold', 'elemental', 'water']"
+Leopard,2,['animal']
+Leprechaun,2,"['chaotic', 'fey']"
+Living Boulder,2,"['earth', 'elemental']"
+Lizardfolk Stargazer,2,"['humanoid', 'lizardfolk']"
+Lustspawn,2,"['aberration', 'evil']"
+Merfolk Wavecaller,2,"['aquatic', 'humanoid', 'merfolk']"
+Monkey Swarm,2,"['animal', 'swarm']"
+Morlock,2,"['chaotic', 'evil', 'humanoid']"
+Mudwretch,2,"['earth', 'elemental', 'water']"
+Munavri Spellblade,2,"['good', 'humanoid', 'munavri']"
+Nagaji Soldier,2,"['humanoid', 'nagaji']"
+Nuglub,2,"['chaotic', 'evil', 'fey', 'gremlin']"
+Orc Warchief,2,"['chaotic', 'evil', 'humanoid', 'orc']"
+Pridespawn,2,"['aberration', 'evil']"
+Pteranodon,2,['animal']
+Rat Snake Swarm,2,"['animal', 'swarm']"
+Rokurokubi,2,['humanoid']
+Rosethorn Ram,2,['animal']
+Sasquatch,2,['humanoid']
+Sea Devil Scout,2,"['amphibious', 'evil', 'humanoid', 'lawful', 'sea-devil']"
+Shadow Drake,2,"['chaotic', 'dragon', 'evil', 'shadow']"
+Shocker Lizard,2,['animal']
+Skeletal Champion,2,"['evil', 'skeleton', 'undead', 'unholy']"
+Skeletal Horse,2,"['evil', 'mindless', 'skeleton', 'undead', 'unholy']"
+Skum,2,"['amphibious', 'evil', 'humanoid', 'lawful']"
+Slime Mold,2,"['fungus', 'mindless', 'ooze']"
+Slothspawn,2,"['aberration', 'evil']"
+Slurk,2,['animal']
+Soulbound Doll (Chaotic Evil),2,"['chaotic', 'construct', 'evil', 'soulbound']"
+Soulbound Doll (Chaotic Good),2,"['chaotic', 'construct', 'good', 'soulbound']"
+Soulbound Doll (Chaotic Neutral),2,"['chaotic', 'construct', 'soulbound']"
+Soulbound Doll (Lawful Evil),2,"['construct', 'evil', 'lawful', 'soulbound']"
+Soulbound Doll (Lawful Good),2,"['construct', 'good', 'lawful', 'soulbound']"
+Soulbound Doll (Lawful Neutral),2,"['construct', 'lawful', 'soulbound']"
+Soulbound Doll (Neutral Evil),2,"['construct', 'evil', 'soulbound']"
+Soulbound Doll (Neutral Good),2,"['construct', 'good', 'soulbound']"
+Soulbound Doll (True Neutral),2,"['construct', 'soulbound']"
+Spark Bat,2,"['air', 'elemental']"
+Squirming Swill,2,"['chaotic', 'evil', 'undead', 'unholy']"
+Stone Lion Cub,2,"['celestial', 'good', 'holy']"
+Strix Kinmate,2,"['humanoid', 'lawful', 'strix']"
+Tatzlwyrm,2,['dragon']
+Tengu Sneak,2,"['chaotic', 'humanoid', 'tengu']"
+Terror Bird,2,['animal']
+Triton,2,"['amphibious', 'good', 'humanoid']"
+War Horse,2,['animal']
+Warg,2,"['beast', 'evil']"
+Werebat,2,"['beast', 'evil', 'human', 'humanoid', 'werecreature']"
+Wereboar,2,"['beast', 'chaotic', 'human', 'humanoid', 'werecreature']"
+Werecrocodile,2,"['beast', 'evil', 'human', 'humanoid', 'werecreature']"
+Wererat,2,"['beast', 'evil', 'human', 'humanoid', 'lawful', 'werecreature']"
+Wolverine,2,['animal']
+Wrathspawn,2,"['aberration', 'evil']"
+Xulgath Skulker,2,"['chaotic', 'evil', 'humanoid', 'xulgath']"
+Yellow Musk Brute,2,"['mindless', 'plant']"
+Yellow Musk Creeper,2,"['mindless', 'plant']"
+Zombie Brute,2,"['evil', 'mindless', 'undead', 'unholy', 'zombie']"
+Zyss Serpentfolk,2,"['evil', 'humanoid', 'serpentfolk']"
+Aapoph Serpentfolk,3,"['chaotic', 'evil', 'humanoid', 'mutant', 'serpentfolk']"
+Akizendri,3,"['chaotic', 'monitor', 'protean']"
+Animated Statue,3,"['construct', 'earth', 'mindless']"
+Ankhrav,3,['animal']
+Assassin Vine,3,"['mindless', 'plant']"
+Boggard Swampseer,3,"['amphibious', 'boggard', 'chaotic', 'evil', 'humanoid']"
+Brine Shark,3,"['aquatic', 'elemental', 'water']"
+Bugbear Tormentor,3,"['evil', 'goblin', 'humanoid']"
+Bunyip,3,"['animal', 'aquatic']"
+Buso Farmer,3,"['evil', 'humanoid']"
+Caligni Slayer,3,"['caligni', 'chaotic', 'evil', 'humanoid']"
+Centaur,3,['beast']
+Centipede Swarm,3,"['animal', 'swarm']"
+Changeling Exile,3,"['changeling', 'chaotic', 'human', 'humanoid']"
+Chupacabra,3,['beast']
+Cinder Rat,3,"['elemental', 'fire']"
+Cockatrice,3,['beast']
+D'ziriak,3,"['aberration', 'shadow']"
+Dero Strangler,3,"['chaotic', 'dero', 'evil', 'humanoid']"
+Dire Wolf,3,['animal']
+Doppelganger,3,['humanoid']
+Draxie,3,"['chaotic', 'fey', 'good', 'sprite']"
+Drow Priestess,3,"['chaotic', 'drow', 'elf', 'evil', 'humanoid']"
+Dryad,3,"['chaotic', 'fey', 'good', 'nymph', 'plant']"
+Dvorovoi,3,"['chaotic', 'fey']"
+Esobok,3,"['monitor', 'psychopomp']"
+Fen Mosquito Swarm,3,"['animal', 'swarm']"
+Ganzi Martial Artist,3,"['chaotic', 'ganzi', 'human', 'humanoid']"
+Gelatinous Cube,3,"['mindless', 'ooze']"
+Ghoran Manipulator,3,"['ghoran', 'humanoid', 'plant']"
+Giant Chameleon,3,['animal']
+Giant Dragonfly Nymph,3,"['animal', 'aquatic']"
+Giant Eagle,3,"['beast', 'good']"
+Giant Mantis,3,['animal']
+Giant Scorpion,3,['animal']
+Giant Seahorse,3,['animal']
+Giant Vulture,3,['animal']
+Giant Wasp,3,['animal']
+Giant Whiptail Centipede,3,['animal']
+Gnoll Cultist,3,"['chaotic', 'evil', 'gnoll', 'humanoid']"
+Gorilla,3,['animal']
+Grioth Cultist,3,"['chaotic', 'evil', 'grioth', 'humanoid']"
+Grizzly Bear,3,['animal']
+Grothlut,3,"['aberration', 'mindless']"
+Hell Hound,3,"['beast', 'evil', 'fiend', 'fire', 'lawful', 'unholy']"
+Hyaenodon,3,['animal']
+Kovintus Geomancer,3,"['humanoid', 'kovintus']"
+Lion,3,['animal']
+Living Graffiti (Blood),3,"['chaotic', 'construct']"
+Living Graffiti (Chalk),3,"['chaotic', 'construct']"
+Living Graffiti (Ink),3,"['chaotic', 'construct']"
+Living Graffiti (Oil),3,"['chaotic', 'construct']"
+Locathah Hunter,3,"['amphibious', 'humanoid', 'locathah']"
+Megalictis,3,['animal']
+Moose,3,['animal']
+Narwhal,3,"['animal', 'aquatic']"
+Necrophidius,3,"['construct', 'mindless']"
+Ogre Warrior,3,"['chaotic', 'evil', 'giant', 'humanoid']"
+Pachycephalosaurus,3,"['animal', 'dinosaur']"
+Pegasus,3,"['beast', 'good']"
+Piranha Swarm,3,"['animal', 'aquatic', 'swarm']"
+Platecarpus,3,['animal']
+Quickling,3,"['chaotic', 'evil', 'fey']"
+Raven Swarm,3,"['animal', 'swarm']"
+River Drake,3,"['amphibious', 'dragon', 'evil', 'water']"
+Rust Monster,3,['aberration']
+Scalescribe,3,['aberration']
+Sea Hag,3,"['amphibious', 'chaotic', 'evil', 'hag', 'humanoid']"
+Seaweed Leshy,3,"['amphibious', 'leshy', 'plant']"
+Shulsaga,3,['astral']
+Skeletal Giant,3,"['evil', 'mindless', 'skeleton', 'undead', 'unholy']"
+Snapping Flytrap,3,"['mindless', 'plant']"
+Sod Hound,3,"['earth', 'elemental']"
+Spriggan Bully,3,"['chaotic', 'evil', 'gnome', 'humanoid', 'spriggan']"
+Street Skelm,3,"['evil', 'humanoid', 'lawful', 'skelm']"
+Tattoo Guardian,3,"['construct', 'mindless']"
+Tiefling Adept,3,"['chaotic', 'evil', 'human', 'humanoid', 'nephilim']"
+Tooth Fairy Swarm,3,"['chaotic', 'evil', 'fey', 'swarm']"
+Trailgaunt,3,"['evil', 'undead', 'unholy']"
+Trilobite Swarm,3,"['animal', 'aquatic', 'swarm']"
+Trollhound,3,"['beast', 'troll']"
+Twigjack,3,"['chaotic', 'evil', 'fey', 'plant']"
+Unicorn,3,"['beast', 'chaotic', 'fey', 'good', 'holy']"
+Urdefhan Warrior,3,"['evil', 'humanoid', 'urdefhan']"
+Vampiric Mist,3,"['aberration', 'evil']"
+Violet Fungus,3,"['fungus', 'mindless']"
+Vishkanya Infiltrator,3,"['humanoid', 'vishkanya']"
+Web Lurker,3,"['aberration', 'evil']"
+Werewolf,3,"['beast', 'chaotic', 'evil', 'human', 'humanoid', 'werecreature']"
+Wight,3,"['evil', 'lawful', 'undead', 'unholy', 'wight']"
+Wolliped,3,['animal']
+Xulgath Leader,3,"['chaotic', 'evil', 'humanoid', 'xulgath']"
+Yeth Hound,3,"['beast', 'chaotic', 'evil', 'fiend', 'unholy']"
+Zebub,3,"['devil', 'evil', 'fiend', 'lawful', 'unholy']"
+Zephyr Hawk,3,"['air', 'elemental']"
+Abrikandilu,4,"['chaotic', 'demon', 'evil', 'fiend', 'unholy']"
+Aghash,4,"['div', 'evil', 'fiend', 'lawful', 'unholy']"
+Amphisbaena,4,['animal']
+Aphorite Sharpshooter,4,"['aphorite', 'human', 'humanoid', 'lawful']"
+Arboreal Warden,4,"['good', 'plant']"
+Attic Whisperer,4,"['evil', 'undead', 'unholy']"
+Barghest,4,"['chaotic', 'evil', 'fiend', 'unholy']"
+Bison,4,['animal']
+Brood Leech Swarm,4,"['amphibious', 'animal', 'swarm']"
+Cairn Wight,4,"['evil', 'lawful', 'undead', 'unholy', 'wight']"
+Calathgar,4,"['cold', 'plant']"
+Caligni Stalker,4,"['caligni', 'chaotic', 'humanoid']"
+Carrion Golem,4,"['construct', 'golem', 'mindless']"
+Coil Spy,4,"['evil', 'humanoid', 'serpentfolk']"
+Corrupted Relic,4,"['chaotic', 'evil', 'incorporeal', 'spirit', 'undead', 'unholy']"
+Daeodon,4,['animal']
+Duskwalker Ghost Hunter,4,"['duskwalker', 'human', 'humanoid']"
+Earthen Destrier,4,"['earth', 'elemental']"
+Faceless Stalker,4,"['aberration', 'chaotic', 'evil']"
+Filth Fire,4,"['elemental', 'evil', 'fire']"
+Flytrap Leshy,4,"['leshy', 'plant']"
+Frost Troll,4,"['chaotic', 'cold', 'evil', 'giant', 'troll']"
+Gancanagh,4,"['azata', 'celestial', 'chaotic', 'good', 'holy']"
+Gargoyle,4,"['beast', 'chaotic', 'earth', 'evil']"
+Ghost Commoner,4,"['chaotic', 'evil', 'ghost', 'incorporeal', 'spirit', 'undead', 'unholy']"
+Giant Dragonfly,4,['animal']
+Giant Pangolin,4,['animal']
+Giant Stag Beetle,4,['animal']
+Giant Wolverine,4,['animal']
+Gnoll Sergeant,4,"['chaotic', 'evil', 'gnoll', 'humanoid']"
+Gray Ooze,4,"['mindless', 'ooze']"
+Great White Shark,4,"['animal', 'aquatic']"
+Green Hag,4,"['chaotic', 'evil', 'hag', 'humanoid']"
+Griffon,4,['animal']
+Hadrosaurid,4,"['animal', 'dinosaur']"
+Hellbound Attorney,4,"['devil', 'evil', 'fiend', 'human', 'humanoid', 'lawful', 'unholy']"
+Hermit Crab Swarm,4,"['amphibious', 'animal', 'swarm']"
+Hobgoblin Archer,4,"['evil', 'goblin', 'humanoid', 'lawful']"
+Horned Archon,4,"['archon', 'celestial', 'good', 'holy', 'lawful']"
+Hound Archon,4,"['archon', 'celestial', 'good', 'holy', 'lawful']"
+Huldra,4,"['chaotic', 'fey']"
+Janni,4,"['elemental', 'genie']"
+Kapoacinth,4,"['aquatic', 'beast', 'chaotic', 'earth', 'evil']"
+Kasa-Obake,4,"['good', 'kami']"
+Kelpie,4,"['amphibious', 'evil', 'fey']"
+Korred,4,"['chaotic', 'fey']"
+Kushtaka,4,"['amphibious', 'beast', 'evil']"
+Living Thunderclap,4,"['air', 'elemental']"
+Lovelorn,4,"['chaotic', 'evil', 'undead', 'unholy']"
+Mandragora,4,"['chaotic', 'evil', 'plant']"
+Mimic,4,['aberration']
+Minotaur,4,"['chaotic', 'evil', 'humanoid']"
+Mist Stalker,4,"['amphibious', 'elemental', 'water']"
+Myceloid,4,"['evil', 'fungus']"
+Nightgaunt,4,"['aberration', 'chaotic', 'dream']"
+Nucol,4,"['evil', 'fiend', 'sahkil', 'unholy']"
+Ogre Glutton,4,"['chaotic', 'evil', 'giant', 'humanoid']"
+Otyugh,4,['aberration']
+Ovinnik,4,"['chaotic', 'fey']"
+Owlbear,4,['animal']
+Peryton,4,"['beast', 'chaotic', 'evil']"
+Phantom Knight,4,"['ethereal', 'incorporeal', 'lawful', 'phantom', 'spirit']"
+Pixie,4,"['chaotic', 'fey', 'sprite']"
+Poracha,4,['beast']
+Ratfolk Grenadier,4,"['humanoid', 'lawful', 'ratfolk']"
+Rhinoceros,4,['animal']
+Satyr,4,"['chaotic', 'fey']"
+Scarecrow,4,['construct']
+Scorpion Swarm,4,"['animal', 'swarm']"
+Sea Devil Brute,4,"['amphibious', 'evil', 'humanoid', 'lawful', 'sea-devil']"
+Shabti Redeemer,4,"['good', 'humanoid', 'shabti']"
+Shadow,4,"['chaotic', 'evil', 'incorporeal', 'undead', 'unholy']"
+Shae,4,['shadow']
+Shambler Troop,4,"['evil', 'mindless', 'troop', 'undead', 'unholy', 'zombie']"
+Stone Lion,4,"['celestial', 'good', 'holy']"
+Terror Shrike,4,['animal']
+Tiger,4,['animal']
+Vampire Spawn Rogue,4,"['chaotic', 'evil', 'undead', 'unholy', 'vampire']"
+Viper Swarm,4,"['animal', 'swarm']"
+Wasp Swarm,4,"['animal', 'swarm']"
+Werebear,4,"['beast', 'good', 'human', 'humanoid', 'lawful', 'werecreature']"
+Weretiger,4,"['beast', 'evil', 'human', 'humanoid', 'werecreature']"
+Aasimar Redeemer,5,"['good', 'human', 'humanoid', 'nephilim']"
+Army Ant Swarm,5,"['animal', 'swarm']"
+Azuretzi,5,"['chaotic', 'monitor', 'protean']"
+Barbazu,5,"['devil', 'evil', 'fiend', 'lawful', 'unholy']"
+Basidirond,5,"['fungus', 'mindless']"
+Basilisk,5,['beast']
+Bog Mummy,5,"['evil', 'lawful', 'mummy', 'undead', 'unholy']"
+Bore Worm Swarm,5,"['animal', 'swarm']"
+Brimorak,5,"['chaotic', 'demon', 'evil', 'fiend', 'unholy']"
+Caligni Vanguard,5,"['caligni', 'evil', 'humanoid', 'lawful']"
+Catrina,5,"['monitor', 'psychopomp']"
+Cecaelia Trapper,5,"['amphibious', 'chaotic', 'humanoid']"
+City Guard Squadron,5,"['human', 'humanoid', 'lawful', 'troop']"
+Cloaker,5,"['aberration', 'chaotic']"
+Cyclops,5,"['evil', 'giant', 'humanoid']"
+Dandasuka,5,"['evil', 'fiend', 'lawful', 'rakshasa', 'unholy']"
+Deep Gnome Rockwarden,5,"['gnome', 'humanoid']"
+Dero Magister,5,"['chaotic', 'dero', 'evil', 'humanoid']"
+Dig-Widget,5,"['construct', 'mindless']"
+Divine Warden Of Nethys,5,"['construct', 'mindless']"
+Djinni,5,"['air', 'chaotic', 'elemental', 'genie', 'good']"
+Emperor Cobra,5,['animal']
+Ether Spider,5,"['beast', 'ethereal']"
+Eunemvro,5,"['humanoid', 'lawful', 'vitality']"
+Flame Drake,5,"['chaotic', 'dragon', 'evil', 'fire']"
+Giant Crawling Hand,5,"['evil', 'undead', 'unholy']"
+Giant Frilled Lizard,5,['animal']
+Giant Hermit Crab,5,"['amphibious', 'animal']"
+Giant Moray Eel,5,"['animal', 'aquatic']"
+Gibbering Mouther,5,['aberration']
+Globster,5,"['aquatic', 'ooze']"
+Grimstalker,5,"['chaotic', 'evil', 'fey']"
+Grodair,5,"['amphibious', 'beast', 'chaotic', 'fey', 'water']"
+Harpy,5,"['chaotic', 'evil', 'humanoid']"
+Harpy Skeleton,5,"['evil', 'mindless', 'skeleton', 'undead', 'unholy']"
+Hieracosphinx,5,"['beast', 'chaotic', 'evil']"
+Hippopotamus,5,['animal']
+Ice Golem,5,"['cold', 'construct', 'golem', 'mindless']"
+Ice Worm Swarm,5,"['animal', 'swarm']"
+Kodama,5,"['good', 'holy', 'kami', 'spirit']"
+Lampad,5,"['chaotic', 'earth', 'fey', 'nymph']"
+Lava Worm Swarm,5,"['animal', 'swarm']"
+Leucrotta,5,"['beast', 'chaotic', 'evil']"
+Living Landslide,5,"['earth', 'elemental']"
+Living Waterfall,5,"['aquatic', 'elemental', 'water']"
+Living Whirlwind,5,"['air', 'elemental']"
+Living Wildfire,5,"['elemental', 'fire']"
+Lurker In Light,5,"['evil', 'fey']"
+Mage-Eater Worm Swarm,5,"['animal', 'swarm']"
+Megatherium,5,['animal']
+Namorrodor,5,"['chaotic', 'evil', 'shadow', 'undead', 'unholy']"
+Necral Worm Swarm,5,"['animal', 'swarm', 'undead']"
+Ochre Jelly,5,"['mindless', 'ooze']"
+Ogre Spider,5,['animal']
+Orca,5,['animal']
+Ostiarius,5,"['evil', 'fiend', 'lawful', 'unholy', 'velstrac']"
+Penanggalan,5,"['aberration', 'chaotic', 'evil', 'tanggal']"
+Polar Bear,5,['animal']
+Poltergeist,5,"['evil', 'incorporeal', 'lawful', 'spirit', 'undead', 'unholy']"
+Redcap,5,"['chaotic', 'evil', 'fey']"
+Sabosan,5,"['evil', 'humanoid']"
+Shrine Skelm,5,"['evil', 'humanoid', 'lawful', 'skelm']"
+Skaveling,5,['undead']
+Skinstitch,5,"['construct', 'mindless']"
+Spiny Eurypterid,5,"['amphibious', 'animal']"
+Storm Hag,5,"['air', 'chaotic', 'electricity', 'evil', 'hag', 'humanoid']"
+Troll,5,"['chaotic', 'evil', 'giant', 'troll']"
+Urdefhan Tormentor,5,"['evil', 'humanoid', 'urdefhan']"
+Winter Wolf,5,"['beast', 'evil']"
+Wizard Sponge,5,"['fungus', 'mindless', 'swarm']"
+Wizard Sponge (Crypt),5,"['fungus', 'mindless', 'swarm']"
+Wizard Sponge (Fey Domain),5,"['fungus', 'mindless', 'swarm']"
+Wizard Sponge (Fiendish Temple),5,"['fungus', 'mindless', 'swarm', 'unholy']"
+Wizard Sponge (Toxic Lair),5,"['fungus', 'mindless', 'swarm']"
+Wizard Sponge (Underwater),5,"['fungus', 'mindless', 'swarm']"
+Yeti,5,['humanoid']
+Abandoned Zealot,6,"['chaotic', 'evil', 'incorporeal', 'spirit', 'undead', 'unholy']"
+Ahuizotl,6,"['amphibious', 'beast', 'evil']"
+Ankylosaurus,6,"['animal', 'dinosaur']"
+Annis Hag,6,"['chaotic', 'evil', 'hag', 'humanoid']"
+Awakened Tree,6,['plant']
+Babau,6,"['chaotic', 'demon', 'evil', 'fiend', 'unholy']"
+Baobhan Sith,6,"['chaotic', 'evil', 'fey']"
+Bauble Beast,6,"['beast', 'earth']"
+Belker,6,"['air', 'elemental', 'evil']"
+Blizzardborn,6,"['cold', 'elemental', 'water']"
+Blodeuwedd,6,"['chaotic', 'fey', 'plant']"
+Bralani,6,"['azata', 'celestial', 'chaotic', 'good', 'holy']"
+Caligni Caller,6,"['caligni', 'chaotic', 'evil', 'humanoid']"
+Cave Bear,6,['animal']
+Cave Giant,6,"['chaotic', 'evil', 'giant', 'humanoid']"
+Cavern Troll,6,"['chaotic', 'earth', 'evil', 'giant', 'troll']"
+Ceustodaemon,6,"['daemon', 'evil', 'fiend', 'unholy']"
+Choral,6,"['angel', 'celestial', 'good', 'holy']"
+Chouchin-Obake,6,"['evil', 'kami']"
+Clockwork Soldier,6,"['clockwork', 'construct', 'mindless']"
+Drider,6,"['aberration', 'chaotic', 'evil']"
+Elananx,6,"['evil', 'fey', 'fire']"
+Ettin,6,"['chaotic', 'evil', 'giant', 'humanoid']"
+Evangelist,6,"['evil', 'fiend', 'lawful', 'unholy', 'velstrac']"
+Fire Jellyfish Swarm,6,"['animal', 'aquatic', 'mindless', 'swarm']"
+Giant Mosquito,6,['animal']
+Giant Tarantula,6,['animal']
+Gurgist Mauler,6,"['human', 'humanoid', 'mortic']"
+Hobgoblin General,6,"['evil', 'goblin', 'humanoid', 'lawful']"
+Hodag,6,['beast']
+Hydra,6,['beast']
+Iguanodon,6,"['animal', 'dinosaur']"
+Jungle Drake,6,"['dragon', 'earth', 'evil']"
+Kurobozu,6,"['evil', 'lawful', 'undead', 'unholy']"
+Lamia,6,"['beast', 'chaotic', 'evil']"
+Lunar Naga,6,['aberration']
+Maftet Guardian,6,['humanoid']
+Manticore,6,"['beast', 'evil', 'lawful']"
+Mi-Go,6,"['evil', 'fungus']"
+Mummy Guardian,6,"['evil', 'lawful', 'mummy', 'undead', 'unholy']"
+Nightmare,6,"['beast', 'evil', 'fiend', 'unholy']"
+Owb,6,"['evil', 'shadow']"
+Revenant,6,"['lawful', 'undead']"
+Rhu-Chalik,6,"['aberration', 'chaotic', 'evil']"
+Sand Sentry,6,"['earth', 'elemental']"
+Scythe Tree,6,"['chaotic', 'evil', 'plant']"
+Sea Devil Baron,6,"['amphibious', 'evil', 'humanoid', 'lawful', 'mutant', 'sea-devil']"
+Sea Drake,6,"['amphibious', 'dragon', 'evil', 'water']"
+Shambler,6,['plant']
+Skrik Nettle,6,['aberration']
+Skull Peeler,6,['beast']
+Smilodon,6,['animal']
+Striding Fire,6,"['chaotic', 'elemental', 'fire']"
+Sulfur Zombie,6,"['evil', 'fire', 'mindless', 'undead', 'unholy', 'zombie']"
+Terra-Cotta Soldier,6,['construct']
+Umasi,6,"['aberration', 'chaotic', 'humanoid']"
+Vampire Count,6,"['chaotic', 'evil', 'undead', 'unholy', 'vampire']"
+Verdurous Ooze,6,"['mindless', 'ooze']"
+Vrykolakas Spawn,6,"['evil', 'undead', 'unholy', 'vampire']"
+Vulpinal,6,"['agathion', 'celestial', 'good', 'holy']"
+White Dragon (Young),6,"['chaotic', 'cold', 'dragon', 'evil']"
+"White Dragon (Young, Spellcaster)",6,"['chaotic', 'cold', 'dragon', 'evil']"
+Wihsaak,6,"['evil', 'fiend', 'sahkil', 'unholy']"
+Will-o'-Wisp,6,"['aberration', 'air', 'chaotic', 'evil']"
+Witchwyrd,6,"['humanoid', 'lawful']"
+Wood Giant,6,"['chaotic', 'giant', 'good', 'humanoid']"
+Wood Golem,6,"['construct', 'golem', 'mindless']"
+Woolly Rhinoceros,6,['animal']
+Wraith,6,"['evil', 'incorporeal', 'lawful', 'undead', 'unholy', 'wraith']"
+Wyvern,6,"['dragon', 'evil']"
+Xill,6,"['aberration', 'ethereal', 'evil', 'lawful']"
+Zombie Hulk,6,"['evil', 'mindless', 'undead', 'unholy', 'zombie']"
+Adhukait,7,"['asura', 'evil', 'fiend', 'lawful', 'unholy']"
+Alghollthu Master,7,"['aberration', 'aquatic', 'evil', 'lawful']"
+Arboreal Reaper,7,['plant']
+Black Dragon (Young),7,"['acid', 'amphibious', 'chaotic', 'dragon', 'evil']"
+"Black Dragon (Young, Spellcaster)",7,"['acid', 'amphibious', 'chaotic', 'dragon', 'evil']"
+Black Pudding,7,"['mindless', 'ooze']"
+Brass Dragon (Young),7,"['chaotic', 'dragon', 'fire', 'good']"
+"Brass Dragon (Young, Spellcaster)",7,"['chaotic', 'dragon', 'fire', 'good']"
+Caulborn,7,['astral']
+Chuul,7,"['aberration', 'amphibious', 'chaotic', 'evil']"
+Crossroads Guardian,7,['fey']
+Crystal Dragon (Young),7,"['dragon', 'earth', 'elemental', 'good']"
+"Crystal Dragon (Young, Spellcaster)",7,"['dragon', 'earth', 'elemental', 'good']"
+Culdewen,7,"['amphibious', 'chaotic', 'evil', 'fey']"
+Dark Naga,7,"['aberration', 'evil', 'lawful']"
+Drainberry Bush,7,['plant']
+Dullahan,7,"['evil', 'lawful', 'undead', 'unholy']"
+Dweomercat,7,"['beast', 'chaotic']"
+Elasmosaurus,7,['animal']
+Elephant,7,['animal']
+Empress Bore Worm,7,['animal']
+Empress Ice Worm,7,['animal']
+Empress Lava Worm,7,['animal']
+Empress Mage-Eater Worm,7,['animal']
+Empress Necral Worm,7,"['animal', 'undead']"
+Fortune Eater,7,"['chaotic', 'evil', 'incorporeal', 'spirit', 'undead', 'unholy']"
+Frost Drake,7,"['chaotic', 'cold', 'dragon', 'evil']"
+Giant Animated Statue,7,"['construct', 'earth', 'mindless']"
+Giant Jellyfish,7,"['animal', 'aquatic', 'mindless']"
+Greater Barghest,7,"['chaotic', 'evil', 'fiend', 'mutant', 'unholy']"
+Greater Shadow,7,"['chaotic', 'evil', 'incorporeal', 'undead', 'unholy']"
+Hellcat,7,"['beast', 'evil', 'fiend', 'lawful', 'unholy']"
+Hill Giant,7,"['chaotic', 'earth', 'evil', 'giant', 'humanoid']"
+Hound Of Tindalos,7,"['aberration', 'evil', 'time']"
+Invidiak,7,"['chaotic', 'demon', 'evil', 'fiend', 'incorporeal', 'unholy']"
+Invisible Stalker,7,"['air', 'elemental']"
+Kirin,7,"['air', 'beast', 'fire', 'good', 'lawful']"
+Lantern Archon (Gestalt),7,"['archon', 'celestial', 'good', 'holy', 'lawful']"
+Legion Archon,7,"['archon', 'celestial', 'good', 'holy', 'lawful']"
+Levaloch,7,"['construct', 'devil', 'evil', 'fiend', 'lawful', 'unholy']"
+Lillend,7,"['azata', 'celestial', 'chaotic', 'good', 'holy']"
+Manticore Paaridar,7,"['beast', 'evil', 'humanoid', 'lawful', 'paaridar']"
+Medusa,7,"['evil', 'humanoid', 'lawful']"
+Megalania,7,['animal']
+Mothman,7,"['aberration', 'chaotic']"
+Naiad Queen,7,"['amphibious', 'chaotic', 'fey', 'good', 'nymph', 'water']"
+Naunet,7,"['chaotic', 'monitor', 'protean']"
+Ogre Boss,7,"['chaotic', 'evil', 'giant', 'humanoid']"
+Pairaka,7,"['div', 'evil', 'fiend', 'lawful', 'unholy']"
+Pukwudgie,7,"['evil', 'fey']"
+Quatoid,7,"['aquatic', 'elemental', 'lawful', 'water']"
+Quetzalcoatlus,7,['animal']
+Remorhaz,7,['beast']
+Salamander,7,"['chaotic', 'elemental', 'evil', 'fire']"
+Sceaduinar,7,"['aberration', 'evil', 'unholy', 'void']"
+Shaitan,7,"['earth', 'elemental', 'genie', 'lawful']"
+Shoggti,7,"['amphibious', 'chaotic', 'evil', 'fiend', 'qlippoth', 'unholy']"
+Skeletal Hulk,7,"['evil', 'mindless', 'skeleton', 'undead', 'unholy']"
+Slithering Pit,7,"['mindless', 'ooze']"
+Soul Eater,7,"['evil', 'fiend', 'unholy']"
+Specter,7,"['evil', 'incorporeal', 'lawful', 'undead', 'unholy']"
+Sportlebore Swarm,7,"['animal', 'swarm']"
+Spriggan Warlord,7,"['gnome', 'humanoid', 'spriggan']"
+Stegosaurus,7,"['animal', 'dinosaur']"
+Stygira,7,"['earth', 'evil', 'fey', 'lawful']"
+Succubus,7,"['chaotic', 'demon', 'evil', 'fiend', 'unholy']"
+Tendriculos,7,"['fungus', 'plant']"
+Theletos,7,"['aeon', 'lawful', 'monitor']"
+Tiddalik,7,"['amphibious', 'beast', 'evil']"
+Totenmaske,7,"['evil', 'undead', 'unholy']"
+Tupilaq,7,['construct']
+Underworld Dragon (Young),7,"['dragon', 'evil', 'fire', 'lawful']"
+"Underworld Dragon (Young, Spellcaster)",7,"['dragon', 'evil', 'fire', 'lawful']"
+Vanth,7,"['monitor', 'psychopomp']"
+Winter Hag,7,"['chaotic', 'cold', 'evil', 'hag', 'humanoid']"
+Xorn,7,"['earth', 'elemental']"
+Zetogeki,7,"['animal', 'earth']"
+Anancus,8,['animal']
+Angazhani,8,"['beast', 'chaotic', 'evil']"
+Animate Dream,8,"['dream', 'evil', 'incorporeal']"
+Arboreal Regent,8,"['good', 'plant']"
+Axiomite,8,"['aeon', 'lawful', 'monitor']"
+Balisse,8,"['angel', 'celestial', 'good', 'holy']"
+Behir,8,"['beast', 'electricity']"
+Blood Hag,8,"['chaotic', 'evil', 'hag', 'humanoid']"
+Bodak,8,"['chaotic', 'evil', 'undead', 'unholy']"
+Bone Prophet,8,"['evil', 'humanoid', 'serpentfolk']"
+Brain Collector,8,"['aberration', 'chaotic', 'evil']"
+Brine Dragon (Young),8,"['amphibious', 'dragon', 'elemental', 'lawful', 'water']"
+"Brine Dragon (Young, Spellcaster)",8,"['amphibious', 'dragon', 'elemental', 'lawful', 'water']"
+Bulette,8,['animal']
+Chimera (Black),8,"['beast', 'chaotic', 'evil']"
+Chimera (Blue),8,"['beast', 'chaotic', 'evil']"
+Chimera (Green),8,"['beast', 'chaotic', 'evil']"
+Chimera (Red),8,"['beast', 'chaotic', 'evil']"
+Chimera (White),8,"['beast', 'chaotic', 'evil']"
+Copper Dragon (Young),8,"['chaotic', 'dragon', 'earth', 'good']"
+"Copper Dragon (Young, Spellcaster)",8,"['chaotic', 'dragon', 'earth', 'good']"
+Denizen of Leng,8,"['aberration', 'chaotic', 'dream', 'evil']"
+Desert Drake,8,"['dragon', 'earth', 'evil']"
+Destrachan,8,"['aberration', 'chaotic', 'evil']"
+Erinys,8,"['devil', 'evil', 'fiend', 'lawful', 'unholy']"
+Flesh Golem,8,"['construct', 'golem', 'mindless']"
+Giant Anaconda,8,['animal']
+Giant Hippocampus,8,"['animal', 'aquatic']"
+Giant Octopus,8,"['animal', 'aquatic']"
+Giant Slug,8,['animal']
+Girtablilu Sentry,8,['beast']
+Glass Golem,8,"['construct', 'golem', 'mindless']"
+Gorgon,8,['beast']
+Granite Glyptodont,8,"['earth', 'elemental']"
+Green Dragon (Young),8,"['amphibious', 'dragon', 'evil', 'lawful']"
+"Green Dragon (Young, Spellcaster)",8,"['amphibious', 'dragon', 'evil', 'lawful']"
+Guecubu,8,"['chaotic', 'earth', 'evil', 'undead', 'unholy']"
+Hadrinnex,8,"['aberration', 'evil']"
+Hellknight Cavalry Brigade,8,"['animal', 'human', 'humanoid', 'lawful', 'troop']"
+Hellwasp Swarm,8,"['evil', 'fiend', 'lawful', 'swarm', 'unholy']"
+Hive Mother,8,['animal']
+Intellect Devourer,8,"['aberration', 'chaotic', 'evil']"
+Kishi,8,"['evil', 'fey']"
+Krooth,8,"['amphibious', 'animal']"
+Lamia Matriarch,8,"['beast', 'chaotic', 'evil']"
+Lifeleecher Brawler,8,"['chaotic', 'evil', 'humanoid', 'mortic', 'orc']"
+Magma Scorpion,8,"['elemental', 'fire']"
+Marsh Giant,8,"['amphibious', 'chaotic', 'evil', 'giant', 'humanoid']"
+Megaprimatus,8,['animal']
+Mix Couatl,8,"['beast', 'chaotic', 'couatl', 'good']"
+Mohrg,8,"['chaotic', 'evil', 'undead', 'unholy']"
+Moonflower,8,['plant']
+Nabasu,8,"['chaotic', 'demon', 'evil', 'fiend', 'unholy']"
+Nosferatu Thrall,8,"['evil', 'human', 'humanoid']"
+Onidoshi,8,"['evil', 'fiend', 'giant', 'humanoid', 'lawful', 'oni', 'unholy']"
+Palace Skelm,8,"['evil', 'humanoid', 'lawful', 'skelm']"
+Phantom Beast,8,"['chaotic', 'ethereal', 'incorporeal', 'phantom', 'spirit']"
+Procyal,8,"['agathion', 'celestial', 'good', 'holy']"
+Sandpoint Devil,8,"['beast', 'evil', 'fiend', 'unholy']"
+Sarglagon,8,"['amphibious', 'devil', 'evil', 'fiend', 'lawful', 'unholy']"
+Sea Dragon (Young),8,"['amphibious', 'chaotic', 'dragon', 'good', 'water']"
+"Sea Dragon (Young, Spellcaster)",8,"['amphibious', 'chaotic', 'dragon', 'good', 'water']"
+Shantak,8,"['beast', 'chaotic', 'evil']"
+Sphinx,8,['beast']
+Stone Giant,8,"['earth', 'giant', 'humanoid']"
+Triceratops,8,"['animal', 'dinosaur']"
+Two-Headed Troll,8,"['chaotic', 'evil', 'giant', 'troll']"
+Tylosaurus,8,['animal']
+Alchemical Golem,9,"['alchemical', 'construct', 'golem', 'mindless']"
+Animated Furnace,9,"['construct', 'mindless']"
+Aurumvorax,9,['animal']
+Baykok,9,"['chaotic', 'evil', 'undead', 'unholy']"
+Black Dracolisk,9,"['beast', 'dragon']"
+Blood Painter,9,"['aberration', 'evil']"
+Blue Dracolisk,9,"['beast', 'dragon']"
+Blue Dragon (Young),9,"['dragon', 'electricity', 'evil', 'lawful']"
+"Blue Dragon (Young, Spellcaster)",9,"['dragon', 'electricity', 'evil', 'lawful']"
+Bronze Dragon (Young),9,"['amphibious', 'dragon', 'good', 'lawful', 'water']"
+"Bronze Dragon (Young, Spellcaster)",9,"['amphibious', 'dragon', 'good', 'lawful', 'water']"
+Clockwork Mage,9,"['clockwork', 'construct', 'mindless']"
+Deinosuchus,9,['animal']
+Desert Giant,9,"['giant', 'humanoid', 'lawful']"
+Dragon Turtle,9,"['amphibious', 'dragon']"
+Drakauthix,9,['fungus']
+Dread Wraith,9,"['evil', 'incorporeal', 'lawful', 'undead', 'unholy', 'wraith']"
+Efreeti,9,"['elemental', 'evil', 'fire', 'genie', 'lawful']"
+Firewyrm,9,"['elemental', 'fire']"
+Frost Giant,9,"['chaotic', 'cold', 'evil', 'giant', 'humanoid']"
+Galvo,9,"['aberration', 'amphibious', 'evil']"
+Garuda,9,"['celestial', 'chaotic', 'good', 'holy']"
+Giant Snapping Turtle,9,['animal']
+Giant Squid,9,"['animal', 'aquatic']"
+Gliminal,9,"['incorporeal', 'spirit', 'vitality']"
+Green Dracolisk,9,"['beast', 'dragon']"
+Hesperid,9,"['fey', 'lawful', 'light', 'nymph']"
+Irnakurse,9,"['aberration', 'chaotic', 'evil']"
+Jyoti,9,"['fire', 'humanoid', 'vitality']"
+Khravgodon,9,['animal']
+Leukodaemon,9,"['daemon', 'evil', 'fiend', 'unholy']"
+Magma Dragon (Young),9,"['chaotic', 'dragon', 'elemental', 'fire']"
+"Magma Dragon (Young, Spellcaster)",9,"['chaotic', 'dragon', 'elemental', 'fire']"
+Marid,9,"['chaotic', 'elemental', 'genie', 'water']"
+Mastodon,9,['animal']
+Megalodon,9,"['animal', 'aquatic']"
+Mokele-Mbembe,9,['animal']
+Mummy Pharaoh,9,"['evil', 'lawful', 'mummy', 'undead', 'unholy']"
+Nessian Warhound,9,"['beast', 'evil', 'fiend', 'fire', 'lawful', 'unholy']"
+Night Hag,9,"['evil', 'fiend', 'hag', 'humanoid', 'unholy']"
+Nuckelavee,9,"['amphibious', 'evil', 'fey']"
+Osyluth,9,"['devil', 'evil', 'fiend', 'lawful', 'unholy']"
+Pakalchi,9,"['evil', 'fiend', 'sahkil', 'unholy']"
+Red Dracolisk,9,"['beast', 'dragon']"
+Roc,9,['animal']
+Roiling Incant (Evocation),9,"['arcane', 'mindless']"
+Sky Dragon (Young),9,"['dragon', 'electricity', 'good', 'lawful']"
+"Sky Dragon (Young, Spellcaster)",9,"['dragon', 'electricity', 'good', 'lawful']"
+Spirit Naga,9,"['aberration', 'evil']"
+Stone Mauler,9,"['earth', 'elemental']"
+Storm Lord,9,"['air', 'elemental']"
+Tick Swarm,9,"['animal', 'swarm']"
+Tidal Master,9,"['aquatic', 'elemental', 'water']"
+Tikbalang,9,"['beast', 'chaotic']"
+Titan Centipede,9,['animal']
+Tyrannosaurus Skeleton,9,"['evil', 'mindless', 'skeleton', 'undead', 'unholy']"
+Vampire Mastermind,9,"['chaotic', 'evil', 'undead', 'unholy', 'vampire']"
+Vrock,9,"['chaotic', 'demon', 'evil', 'fiend', 'unholy']"
+White Dracolisk,9,"['beast', 'dragon']"
+Witchfire,9,"['chaotic', 'evil', 'incorporeal', 'spirit', 'undead', 'unholy']"
+Yithian,9,"['aberration', 'lawful']"
+Zelekhut,9,"['aeon', 'inevitable', 'lawful', 'monitor']"
+Zombie Dragon,9,"['dragon', 'evil', 'mindless', 'undead', 'unholy', 'zombie']"
+Adlet,10,"['chaotic', 'cold', 'humanoid']"
+Bebilith,10,"['beast', 'chaotic', 'evil', 'fiend', 'unholy']"
+Behemoth Hippopotamus,10,['animal']
+Brontosaurus,10,"['animal', 'dinosaur']"
+Chyzaedu,10,"['aberration', 'chaotic', 'evil']"
+Clacking Sea Skull Swarm,10,"['evil', 'mindless', 'swarm', 'undead', 'unholy']"
+Clacking Skull Swarm,10,"['evil', 'mindless', 'swarm', 'undead', 'unholy']"
+Clay Golem,10,"['construct', 'golem', 'mindless']"
+Cloud Dragon (Young),10,"['air', 'dragon', 'elemental']"
+"Cloud Dragon (Young, Spellcaster)",10,"['air', 'dragon', 'elemental']"
+Dezullon,10,['plant']
+Einherji,10,"['aesir', 'chaotic', 'monitor']"
+Etioling Blightmage,10,"['chaotic', 'gnome', 'humanoid', 'mortic']"
+Feathered Bear,10,"['beast', 'incorporeal', 'spirit']"
+Fire Giant,10,"['evil', 'fire', 'giant', 'humanoid', 'lawful']"
+Forest Dragon (Young),10,"['chaotic', 'dragon', 'evil', 'plant']"
+"Forest Dragon (Young, Spellcaster)",10,"['chaotic', 'dragon', 'evil', 'plant']"
+Ghonhatine,10,"['aberration', 'chaotic', 'evil']"
+Ghost Mage,10,"['chaotic', 'evil', 'ghost', 'incorporeal', 'spirit', 'undead', 'unholy']"
+Giant Flytrap,10,"['mindless', 'plant']"
+Graveknight,10,"['evil', 'lawful', 'undead', 'unholy']"
+Guardian Naga,10,"['aberration', 'good', 'lawful']"
+Gug,10,"['aberration', 'chaotic', 'evil']"
+Icewyrm,10,"['amphibious', 'cold', 'elemental', 'water']"
+Imentesh,10,"['chaotic', 'monitor', 'protean']"
+Leng Ghoul,10,"['chaotic', 'dream', 'evil', 'ghoul', 'undead', 'unholy']"
+Mammoth,10,['animal']
+Melody On The Wind,10,"['air', 'elemental']"
+Mobogo,10,"['amphibious', 'beast', 'chaotic', 'evil']"
+Moon Hag,10,"['chaotic', 'evil', 'fiend', 'hag', 'humanoid', 'unholy']"
+Movanic Deva,10,"['angel', 'celestial', 'good', 'holy']"
+Nereid,10,"['aquatic', 'chaotic', 'fey', 'water']"
+Nilith,10,"['aberration', 'evil']"
+Nosferatu Malefactor,10,"['evil', 'undead', 'unholy', 'vampire']"
+Nyogoth,10,"['chaotic', 'evil', 'fiend', 'qlippoth', 'unholy']"
+Ofalth,10,"['aberration', 'chaotic', 'evil']"
+Peluda,10,"['dragon', 'evil', 'fire', 'lawful']"
+Phistophilus,10,"['devil', 'evil', 'fiend', 'lawful', 'unholy']"
+Piscodaemon,10,"['amphibious', 'daemon', 'evil', 'fiend', 'unholy']"
+Quetz Couatl,10,"['beast', 'couatl', 'good', 'lawful']"
+Quintessivore,10,"['beast', 'evil']"
+Raja Rakshasa,10,"['evil', 'fiend', 'lawful', 'rakshasa', 'unholy']"
+Red Dragon (Young),10,"['chaotic', 'dragon', 'evil', 'fire']"
+"Red Dragon (Young, Spellcaster)",10,"['chaotic', 'dragon', 'evil', 'fire']"
+Roper,10,"['aberration', 'chaotic', 'evil']"
+Sacristan,10,"['evil', 'fiend', 'lawful', 'unholy', 'velstrac']"
+Shield Archon,10,"['archon', 'celestial', 'good', 'holy', 'lawful']"
+Silver Dragon (Young),10,"['cold', 'dragon', 'good', 'lawful']"
+"Silver Dragon (Young, Spellcaster)",10,"['cold', 'dragon', 'good', 'lawful']"
+Soul Skelm,10,"['evil', 'fiend', 'humanoid', 'lawful', 'skelm', 'unholy']"
+Swordkeeper,10,"['construct', 'lawful', 'mindless']"
+Troll King,10,"['chaotic', 'evil', 'giant', 'troll']"
+Tyrannosaurus,10,"['animal', 'dinosaur']"
+Vrykolakas Master,10,"['evil', 'undead', 'unholy', 'vampire']"
+Water Orm,10,"['aquatic', 'beast', 'water']"
+White Dragon (Adult),10,"['chaotic', 'cold', 'dragon', 'evil']"
+"White Dragon (Adult, Spellcaster)",10,"['chaotic', 'cold', 'dragon', 'evil']"
+Zuishin,10,"['good', 'kami', 'lawful', 'spirit']"
+Black Dragon (Adult),11,"['acid', 'amphibious', 'chaotic', 'dragon', 'evil']"
+"Black Dragon (Adult, Spellcaster)",11,"['acid', 'amphibious', 'chaotic', 'dragon', 'evil']"
+Brainchild,11,"['chaotic', 'evil', 'illusion', 'mental']"
+Brass Dragon (Adult),11,"['chaotic', 'dragon', 'fire', 'good']"
+"Brass Dragon (Adult, Spellcaster)",11,"['chaotic', 'dragon', 'fire', 'good']"
+Cloud Giant,11,"['air', 'giant', 'humanoid']"
+Crystal Dragon (Adult),11,"['dragon', 'earth', 'elemental', 'good']"
+"Crystal Dragon (Adult, Spellcaster)",11,"['dragon', 'earth', 'elemental', 'good']"
+Deadly Mantis,11,['animal']
+Devourer,11,"['evil', 'undead', 'unholy']"
+Elemental Avalanche,11,"['earth', 'elemental']"
+Elemental Hurricane,11,"['air', 'elemental']"
+Elemental Inferno,11,"['elemental', 'fire']"
+Elemental Tsunami,11,"['aquatic', 'elemental', 'water']"
+Gold Dragon (Young),11,"['dragon', 'fire', 'good', 'lawful']"
+"Gold Dragon (Young, Spellcaster)",11,"['dragon', 'fire', 'good', 'lawful']"
+Goliath Spider,11,['animal']
+Gosreg,11,"['aberration', 'chaotic', 'evil']"
+Greater Nightmare,11,"['beast', 'evil', 'fiend', 'unholy']"
+Hamatula,11,"['devil', 'evil', 'fiend', 'lawful', 'unholy']"
+Harmona,11,"['chaotic', 'fey']"
+Hezrou,11,"['amphibious', 'chaotic', 'demon', 'evil', 'fiend', 'unholy']"
+Isqulug,11,"['aberration', 'amphibious', 'evil']"
+Kongamato,11,['dragon']
+Meladaemon,11,"['daemon', 'evil', 'fiend', 'unholy']"
+Munagola,11,"['devil', 'evil', 'fiend', 'lawful', 'unholy']"
+Quoppopak,11,"['aberration', 'aquatic', 'evil']"
+Rancorous Priesthood,11,"['chaotic', 'evil', 'humanoid', 'troop']"
+Seething Spirit,11,"['chaotic', 'evil', 'incorporeal', 'spirit', 'undead', 'unholy']"
+Skeleton Infantry,11,"['evil', 'mindless', 'skeleton', 'troop', 'undead', 'unholy']"
+Sovereign Dragon (Young),11,"['dragon', 'earth']"
+"Sovereign Dragon (Young, Spellcaster)",11,"['dragon', 'earth']"
+Spinosaurus,11,"['animal', 'dinosaur']"
+Spiral Centurion,11,"['construct', 'mindless']"
+Stone Golem,11,"['construct', 'golem', 'mindless']"
+Thunderbird,11,"['air', 'beast', 'electricity']"
+Umbral Dragon (Young),11,"['dragon', 'evil', 'shadow']"
+"Umbral Dragon (Young, Spellcaster)",11,"['dragon', 'evil', 'shadow']"
+Underworld Dragon (Adult),11,"['dragon', 'evil', 'fire', 'lawful']"
+"Underworld Dragon (Adult, Spellcaster)",11,"['dragon', 'evil', 'fire', 'lawful']"
+Arboreal Archive,12,"['good', 'plant']"
+Athach,12,"['chaotic', 'evil', 'giant', 'humanoid']"
+Betobeto-San,12,"['incorporeal', 'shadow', 'spirit']"
+Brine Dragon (Adult),12,"['amphibious', 'dragon', 'elemental', 'lawful', 'water']"
+"Brine Dragon (Adult, Spellcaster)",12,"['amphibious', 'dragon', 'elemental', 'lawful', 'water']"
+Calikang,12,"['humanoid', 'lawful']"
+Catoblepas,12,"['beast', 'chaotic', 'evil']"
+Cauthooj,12,['beast']
+Chernobue,12,"['chaotic', 'evil', 'fiend', 'qlippoth', 'unholy']"
+Copper Dragon (Adult),12,"['chaotic', 'dragon', 'earth', 'good']"
+"Copper Dragon (Adult, Spellcaster)",12,"['chaotic', 'dragon', 'earth', 'good']"
+Derghodaemon,12,"['daemon', 'evil', 'fiend', 'unholy']"
+Feral Sea Skull Swarm,12,"['evil', 'mindless', 'swarm', 'undead', 'unholy']"
+Feral Skull Swarm,12,"['evil', 'mindless', 'swarm', 'undead', 'unholy']"
+Fossil Golem,12,"['construct', 'golem', 'mindless']"
+Frost Worm,12,"['animal', 'cold']"
+Gimmerling,12,"['evil', 'fey', 'lawful']"
+Girtablilu Seer,12,['beast']
+Gogiteth,12,"['aberration', 'chaotic', 'evil']"
+Great Cyclops,12,"['chaotic', 'evil', 'giant', 'humanoid', 'mutant']"
+Green Dragon (Adult),12,"['amphibious', 'dragon', 'evil', 'lawful']"
+"Green Dragon (Adult, Spellcaster)",12,"['amphibious', 'dragon', 'evil', 'lawful']"
+Interlocutor,12,"['evil', 'fiend', 'lawful', 'unholy', 'velstrac']"
+Japalisura,12,"['asura', 'evil', 'fiend', 'lawful', 'unholy']"
+Kokogiak,12,"['beast', 'evil']"
+Kolyarut,12,"['aeon', 'inevitable', 'lawful', 'monitor']"
+Lich,12,"['evil', 'undead', 'unholy']"
+Misery Siktempora,12,"['chaotic', 'evil', 'siktempora', 'time']"
+Monadic Deva,12,"['angel', 'celestial', 'good', 'holy']"
+Omox,12,"['chaotic', 'demon', 'evil', 'fiend', 'ooze', 'unholy']"
+Rusalka,12,"['aquatic', 'evil', 'fey', 'water']"
+Sea Dragon (Adult),12,"['amphibious', 'chaotic', 'dragon', 'good', 'water']"
+"Sea Dragon (Adult, Spellcaster)",12,"['amphibious', 'chaotic', 'dragon', 'good', 'water']"
+Sea Serpent,12,['animal']
+Shining Child,12,"['astral', 'chaotic', 'evil']"
+Shuln,12,['beast']
+Taiga Giant,12,"['chaotic', 'giant', 'humanoid']"
+Tidehawk,12,"['amphibious', 'beast', 'water']"
+Tomb Giant,12,"['evil', 'giant', 'humanoid']"
+Valkyrie,12,"['aesir', 'chaotic', 'monitor']"
+Xiuh Couatl,12,"['beast', 'couatl', 'good']"
+Adachros,13,['astral']
+Amalgamite,13,"['aberration', 'evil']"
+Animated Trebuchet,13,"['construct', 'mindless']"
+Blue Dragon (Adult),13,"['dragon', 'electricity', 'evil', 'lawful']"
+"Blue Dragon (Adult, Spellcaster)",13,"['dragon', 'electricity', 'evil', 'lawful']"
+Bronze Dragon (Adult),13,"['amphibious', 'dragon', 'good', 'lawful', 'water']"
+"Bronze Dragon (Adult, Spellcaster)",13,"['amphibious', 'dragon', 'good', 'lawful', 'water']"
+Carnivorous Blob,13,"['mindless', 'ooze']"
+Consonite Choir,13,"['earth', 'elemental', 'swarm']"
+Dryad Queen,13,"['chaotic', 'fey', 'good', 'nymph', 'plant']"
+Froghemoth,13,"['aberration', 'amphibious']"
+Gelugon,13,"['devil', 'evil', 'fiend', 'lawful', 'unholy']"
+Ghaele,13,"['azata', 'celestial', 'chaotic', 'good', 'holy']"
+Glabrezu,13,"['chaotic', 'demon', 'evil', 'fiend', 'unholy']"
+Ice Yai,13,"['chaotic', 'cold', 'evil', 'fiend', 'giant', 'humanoid', 'oni', 'unholy']"
+Irlgaunt,13,"['aberration', 'earth', 'evil']"
+Iron Golem,13,"['construct', 'golem', 'mindless']"
+Jorogumo,13,"['evil', 'humanoid']"
+Leng Spider,13,"['aberration', 'chaotic', 'dream', 'evil']"
+Living Rune (Arcane),13,"['construct', 'lawful']"
+Living Rune (Divine),13,"['construct', 'lawful']"
+Living Rune (Occult),13,"['construct', 'lawful']"
+Living Rune (Primal),13,"['construct', 'lawful']"
+Magma Dragon (Adult),13,"['chaotic', 'dragon', 'elemental', 'fire']"
+"Magma Dragon (Adult, Spellcaster)",13,"['chaotic', 'dragon', 'elemental', 'fire']"
+Millindemalion,13,"['evil', 'fey']"
+Owb Prophet,13,"['evil', 'shadow']"
+Purple Worm,13,['animal']
+Shadow Giant,13,"['evil', 'giant', 'humanoid', 'lawful', 'shadow']"
+Sky Dragon (Adult),13,"['dragon', 'electricity', 'good', 'lawful']"
+"Sky Dragon (Adult, Spellcaster)",13,"['dragon', 'electricity', 'good', 'lawful']"
+Storm Giant,13,"['amphibious', 'chaotic', 'giant', 'good', 'humanoid']"
+Terra-Cotta Garrison,13,"['construct', 'troop']"
+Thanadaemon,13,"['daemon', 'evil', 'fiend', 'unholy']"
+Viper Vine,13,['plant']
+Vrykolakas Ancient,13,"['evil', 'undead', 'unholy', 'vampire']"
+Ankou,14,"['evil', 'fey', 'lawful']"
+Astral Deva,14,"['angel', 'celestial', 'good', 'holy']"
+Augnagar,14,"['chaotic', 'evil', 'fiend', 'qlippoth', 'unholy']"
+Cloud Dragon (Adult),14,"['air', 'dragon', 'elemental']"
+"Cloud Dragon (Adult, Spellcaster)",14,"['air', 'dragon', 'elemental']"
+Crag Linnorm,14,"['chaotic', 'dragon', 'evil', 'fire']"
+Doprillu,14,"['aberration', 'evil']"
+Dramofir,14,"['aberration', 'dream']"
+Fire Yai,14,"['evil', 'fiend', 'fire', 'giant', 'humanoid', 'lawful', 'oni', 'unholy']"
+Forest Dragon (Adult),14,"['chaotic', 'dragon', 'evil', 'plant']"
+"Forest Dragon (Adult, Spellcaster)",14,"['chaotic', 'dragon', 'evil', 'plant']"
+Grikkitog,14,"['aberration', 'earth', 'evil']"
+Gylou,14,"['devil', 'evil', 'fiend', 'lawful', 'unholy']"
+Kuchisake-Onna,14,"['aberration', 'evil', 'lawful']"
+Mezlan,14,['ooze']
+Nalfeshnee,14,"['chaotic', 'demon', 'evil', 'fiend', 'unholy']"
+Nightmarchers,14,"['incorporeal', 'lawful', 'spirit', 'troop', 'undead']"
+Nikaramsa,14,"['asura', 'evil', 'fiend', 'lawful', 'unholy']"
+Peri,14,"['celestial', 'chaotic', 'fire', 'good', 'holy']"
+Plague Giant,14,"['evil', 'giant', 'humanoid']"
+Ravener Husk,14,"['chaotic', 'dragon', 'evil', 'undead', 'unholy']"
+Red Dragon (Adult),14,"['chaotic', 'dragon', 'evil', 'fire']"
+"Red Dragon (Adult, Spellcaster)",14,"['chaotic', 'dragon', 'evil', 'fire']"
+Sepid,14,"['div', 'evil', 'fiend', 'lawful', 'unholy']"
+Silver Dragon (Adult),14,"['cold', 'dragon', 'good', 'lawful']"
+"Silver Dragon (Adult, Spellcaster)",14,"['cold', 'dragon', 'good', 'lawful']"
+Sorcerous Sea Skull Swarm,14,"['evil', 'swarm', 'undead', 'unholy']"
+Sorcerous Skull Swarm,14,"['evil', 'swarm', 'undead', 'unholy']"
+Triumph Siktempora,14,"['lawful', 'siktempora', 'time']"
+Trumpet Archon,14,"['archon', 'celestial', 'good', 'holy', 'lawful']"
+Uthul,14,"['air', 'chaotic', 'elemental', 'evil']"
+Veiled Master,14,"['aberration', 'aquatic', 'evil', 'lawful']"
+Worm That Walks Cultist,14,"['aberration', 'chaotic', 'evil', 'swarm']"
+Animated Colossus,15,"['construct', 'mindless']"
+Azure Worm,15,"['amphibious', 'animal']"
+Black Scorpion,15,['animal']
+Demilich,15,"['evil', 'undead', 'unholy']"
+Dybbuk,15,"['evil', 'incorporeal', 'spirit', 'undead', 'unholy']"
+Gold Dragon (Adult),15,"['dragon', 'fire', 'good', 'lawful']"
+"Gold Dragon (Adult, Spellcaster)",15,"['dragon', 'fire', 'good', 'lawful']"
+Hyakume,15,"['aberration', 'evil']"
+Jotund Troll,15,"['chaotic', 'evil', 'giant', 'mutant', 'troll']"
+Lampad Queen,15,"['chaotic', 'earth', 'fey', 'nymph']"
+Marrmora,15,"['evil', 'fey', 'fire']"
+Marut,15,"['aeon', 'inevitable', 'lawful', 'monitor']"
+Morrigna,15,"['monitor', 'psychopomp']"
+Mukradi,15,['beast']
+Nemhaith,15,"['evil', 'incorporeal', 'spirit', 'undead', 'unholy']"
+Neothelid,15,"['aberration', 'chaotic', 'evil']"
+Nosferatu Overlord,15,"['evil', 'undead', 'unholy', 'vampire']"
+Phoenix,15,"['beast', 'fire', 'good', 'holy']"
+Popobawa,15,"['chaotic', 'evil', 'humanoid']"
+Quelaunt,15,"['aberration', 'chaotic', 'evil']"
+Shoal Linnorm,15,"['amphibious', 'chaotic', 'dragon', 'evil']"
+Sovereign Dragon (Adult),15,"['dragon', 'earth']"
+"Sovereign Dragon (Adult, Spellcaster)",15,"['dragon', 'earth']"
+Tolokand,15,"['aberration', 'evil']"
+Toshigami,15,"['good', 'kami', 'spirit']"
+Umbral Dragon (Adult),15,"['dragon', 'evil', 'shadow']"
+"Umbral Dragon (Adult, Spellcaster)",15,"['dragon', 'evil', 'shadow']"
+Umonlee,15,"['amphibious', 'beast', 'cold']"
+Wemmuth,15,"['evil', 'plant']"
+White Dragon (Ancient),15,"['chaotic', 'cold', 'dragon', 'evil']"
+"White Dragon (Ancient, Spellcaster)",15,"['chaotic', 'cold', 'dragon', 'evil']"
+Astradaemon,16,"['daemon', 'evil', 'fiend', 'unholy']"
+Black Dragon (Ancient),16,"['acid', 'amphibious', 'chaotic', 'dragon', 'evil']"
+"Black Dragon (Ancient, Spellcaster)",16,"['acid', 'amphibious', 'chaotic', 'dragon', 'evil']"
+Brass Dragon (Ancient),16,"['chaotic', 'dragon', 'fire', 'good']"
+"Brass Dragon (Ancient, Spellcaster)",16,"['chaotic', 'dragon', 'fire', 'good']"
+Bythos,16,"['aeon', 'lawful', 'monitor']"
+Clockwork Dragon,16,"['clockwork', 'construct', 'mindless']"
+Cornugon,16,"['devil', 'evil', 'fiend', 'lawful', 'unholy']"
+Crystal Dragon (Ancient),16,"['dragon', 'earth', 'elemental', 'good']"
+"Crystal Dragon (Ancient, Spellcaster)",16,"['dragon', 'earth', 'elemental', 'good']"
+Elder Sphinx,16,['beast']
+Fjord Linnorm,16,"['amphibious', 'chaotic', 'dragon', 'evil']"
+Lesser Death,16,"['evil', 'undead', 'unholy']"
+Love Siktempora,16,"['good', 'siktempora', 'time']"
+Mithral Golem,16,"['construct', 'golem', 'mindless']"
+Planetar,16,"['angel', 'celestial', 'good', 'holy']"
+Rune Giant,16,"['evil', 'giant', 'humanoid', 'lawful']"
+Shemhazian,16,"['chaotic', 'demon', 'evil', 'fiend', 'unholy']"
+Sumbreiva,16,"['evil', 'humanoid', 'lawful', 'void']"
+Underworld Dragon (Ancient),16,"['dragon', 'evil', 'fire', 'lawful']"
+"Underworld Dragon (Ancient, Spellcaster)",16,"['dragon', 'evil', 'fire', 'lawful']"
+Vilderavn,16,"['evil', 'fey']"
+Warsworn,16,"['evil', 'undead', 'unholy']"
+Zaramuun,16,"['chaotic', 'earth', 'elemental', 'evil']"
+Zomok,16,"['dragon', 'plant']"
+Banshee,17,"['chaotic', 'evil', 'incorporeal', 'spirit', 'undead', 'unholy']"
+Brine Dragon (Ancient),17,"['amphibious', 'dragon', 'elemental', 'lawful', 'water']"
+"Brine Dragon (Ancient, Spellcaster)",17,"['amphibious', 'dragon', 'elemental', 'lawful', 'water']"
+Copper Dragon (Ancient),17,"['chaotic', 'dragon', 'earth', 'good']"
+"Copper Dragon (Ancient, Spellcaster)",17,"['chaotic', 'dragon', 'earth', 'good']"
+Deimavigga,17,"['devil', 'evil', 'fiend', 'lawful', 'unholy']"
+Green Dragon (Ancient),17,"['amphibious', 'dragon', 'evil', 'lawful']"
+"Green Dragon (Ancient, Spellcaster)",17,"['amphibious', 'dragon', 'evil', 'lawful']"
+Ice Linnorm,17,"['chaotic', 'cold', 'dragon', 'evil']"
+Keketar,17,"['chaotic', 'monitor', 'protean']"
+Leydroth,17,"['beast', 'evil']"
+Marilith,17,"['chaotic', 'demon', 'evil', 'fiend', 'unholy']"
+Radiant Warden,17,['construct']
+Sea Dragon (Ancient),17,"['amphibious', 'chaotic', 'dragon', 'good', 'water']"
+"Sea Dragon (Ancient, Spellcaster)",17,"['amphibious', 'chaotic', 'dragon', 'good', 'water']"
+Thrasfyr,17,"['beast', 'chaotic', 'evil', 'fire', 'tane']"
+Vaspercham,17,"['aberration', 'aquatic', 'chaotic', 'evil']"
+Water Yai,17,"['chaotic', 'evil', 'fiend', 'giant', 'humanoid', 'oni', 'unholy', 'water']"
+Wendigo,17,"['beast', 'chaotic', 'cold', 'evil']"
+Wyrmwraith,17,"['chaotic', 'dragon', 'evil', 'incorporeal', 'undead', 'unholy', 'wraith']"
+Ximtal,17,"['evil', 'fiend', 'sahkil', 'unholy']"
+Adamantine Golem,18,"['construct', 'golem', 'mindless']"
+Aolaz,18,['construct']
+Blue Dragon (Ancient),18,"['dragon', 'electricity', 'evil', 'lawful']"
+"Blue Dragon (Ancient, Spellcaster)",18,"['dragon', 'electricity', 'evil', 'lawful']"
+Bone Ship,18,"['chaotic', 'evil', 'undead', 'unholy']"
+Bronze Dragon (Ancient),18,"['amphibious', 'dragon', 'good', 'lawful', 'water']"
+"Bronze Dragon (Ancient, Spellcaster)",18,"['amphibious', 'dragon', 'good', 'lawful', 'water']"
+Cairn Linnorm,18,"['chaotic', 'dragon', 'evil']"
+Crimson Worm,18,"['beast', 'fire']"
+Duneshaker Solifugid,18,['animal']
+Hatred Siktempora,18,"['evil', 'siktempora', 'time']"
+Kraken,18,"['aquatic', 'beast', 'evil']"
+Magma Dragon (Ancient),18,"['chaotic', 'dragon', 'elemental', 'fire']"
+"Magma Dragon (Ancient, Spellcaster)",18,"['chaotic', 'dragon', 'elemental', 'fire']"
+Purrodaemon,18,"['daemon', 'evil', 'fiend', 'unholy']"
+Shoggoth,18,"['aberration', 'amphibious', 'chaotic']"
+Simurgh,18,"['beast', 'good']"
+Skulltaker,18,"['evil', 'undead', 'unholy']"
+Sky Dragon (Ancient),18,"['dragon', 'electricity', 'good', 'lawful']"
+"Sky Dragon (Ancient, Spellcaster)",18,"['dragon', 'electricity', 'good', 'lawful']"
+Thulgant,18,"['chaotic', 'evil', 'fiend', 'qlippoth', 'unholy']"
+Cloud Dragon (Ancient),19,"['air', 'dragon', 'elemental']"
+"Cloud Dragon (Ancient, Spellcaster)",19,"['air', 'dragon', 'elemental']"
+Forest Dragon (Ancient),19,"['chaotic', 'dragon', 'evil', 'plant']"
+"Forest Dragon (Ancient, Spellcaster)",19,"['chaotic', 'dragon', 'evil', 'plant']"
+Grendel,19,"['chaotic', 'evil', 'humanoid']"
+Guthallath,19,['construct']
+Hesperid Queen,19,"['fey', 'lawful', 'light', 'nymph']"
+Red Dragon (Ancient),19,"['chaotic', 'dragon', 'evil', 'fire']"
+"Red Dragon (Ancient, Spellcaster)",19,"['chaotic', 'dragon', 'evil', 'fire']"
+Sard,19,"['chaotic', 'electricity', 'evil', 'plant', 'tane']"
+Silver Dragon (Ancient),19,"['cold', 'dragon', 'good', 'lawful']"
+"Silver Dragon (Ancient, Spellcaster)",19,"['cold', 'dragon', 'good', 'lawful']"
+Star Archon,19,"['archon', 'celestial', 'good', 'holy', 'lawful']"
+Sturzstromer,19,"['aberration', 'earth', 'swarm']"
+Taiga Linnorm,19,"['chaotic', 'dragon', 'evil']"
+Terotricus,19,"['chaotic', 'evil', 'fungus', 'unholy']"
+Tzitzimitl,19,"['electricity', 'evil', 'undead', 'unholy']"
+Vrolikai,19,"['chaotic', 'demon', 'evil', 'fiend', 'unholy']"
+Balor,20,"['chaotic', 'demon', 'evil', 'fiend', 'unholy']"
+Baomal,20,"['aberration', 'aquatic', 'chaotic']"
+Bastion Archon,20,"['archon', 'celestial', 'good', 'holy', 'lawful']"
+Draconal (Black),20,"['agathion', 'celestial', 'good', 'holy']"
+Draconal (Green),20,"['agathion', 'celestial', 'good', 'holy']"
+Draconal (Red),20,"['agathion', 'celestial', 'good', 'holy']"
+Draconal (White),20,"['agathion', 'celestial', 'good', 'holy']"
+Draconal (Yellow),20,"['agathion', 'celestial', 'good', 'holy']"
+Eremite,20,"['evil', 'fiend', 'lawful', 'unholy', 'velstrac']"
+Gold Dragon (Ancient),20,"['dragon', 'fire', 'good', 'lawful']"
+"Gold Dragon (Ancient, Spellcaster)",20,"['dragon', 'fire', 'good', 'lawful']"
+Kimenhul,20,"['evil', 'fiend', 'sahkil', 'unholy']"
+Maharaja,20,"['evil', 'fiend', 'lawful', 'rakshasa', 'unholy']"
+Norn,20,"['fey', 'lawful']"
+Olethrodaemon,20,"['daemon', 'evil', 'fiend', 'unholy']"
+Pit Fiend,20,"['devil', 'evil', 'fiend', 'lawful', 'unholy']"
+Pleroma,20,"['aeon', 'lawful', 'monitor']"
+Sovereign Dragon (Ancient),20,"['dragon', 'earth']"
+"Sovereign Dragon (Ancient, Spellcaster)",20,"['dragon', 'earth']"
+Tarn Linnorm,20,"['acid', 'amphibious', 'chaotic', 'dragon', 'evil']"
+Umbral Dragon (Ancient),20,"['dragon', 'evil', 'shadow']"
+"Umbral Dragon (Ancient, Spellcaster)",20,"['dragon', 'evil', 'shadow']"
+Veranallia,20,"['azata', 'celestial', 'chaotic', 'good', 'holy']"
+Yamaraj,20,"['monitor', 'psychopomp']"
+Elysian Titan,21,"['chaotic', 'good', 'humanoid', 'titan']"
+Grim Reaper,21,"['evil', 'undead', 'unholy']"
+Krampus,21,"['evil', 'humanoid', 'unholy']"
+Lerritan,21,"['earth', 'elemental', 'evil', 'fire']"
+Mu Spore,21,"['chaotic', 'fungus']"
+Ouroboros,21,"['astral', 'beast']"
+Ravener,21,"['chaotic', 'dragon', 'evil', 'fire', 'undead', 'unholy']"
+Tor Linnorm,21,"['chaotic', 'dragon', 'evil', 'fire']"
+Thanatotic Titan,22,"['chaotic', 'evil', 'humanoid', 'titan']"
+Danava Titan,23,"['humanoid', 'lawful', 'titan', 'water']"
+Elder Wyrmwraith,23,"['chaotic', 'dragon', 'evil', 'incorporeal', 'undead', 'unholy', 'wraith']"
+Jabberwock,23,"['chaotic', 'dragon', 'evil', 'tane']"
+Solar,23,"['angel', 'celestial', 'good', 'holy']"
+Green Man,24,"['leshy', 'plant']"
+Hekatonkheires Titan,24,"['aberration', 'chaotic', 'evil', 'titan']"
+Treerazer,25,"['amphibious', 'chaotic', 'demon', 'evil', 'fiend', 'unholy']"

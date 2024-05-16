@@ -9,7 +9,7 @@ def beastiary_to_dataframe():
     
     subdirectories = ['Library\\pathfinder-bestiary','Library\\pathfinder-bestiary-2','Library\\pathfinder-bestiary-3']
     
-    data = [['Name', 'Level']]
+    data = [['Name', 'Level', 'Traits']]
 
     for sub in subdirectories:
         files = glob.glob(f'{sub}/*.json', recursive=True)
@@ -20,8 +20,9 @@ def beastiary_to_dataframe():
                     json_file = json.load(f)
                     name = json_file.get("name", "")  
                     level = json_file.get("system", "").get("details", "").get("level", "").get("value", "")
+                    traits =  json_file.get("system", "").get("traits", "").get("value", "")
                     if name:  
-                        data.append([name, level]) 
+                        data.append([name, level, traits]) 
                 except json.JSONDecodeError as e:
                     print(f"Error decoding JSON in {single_file}: {e}")
                     continue  
