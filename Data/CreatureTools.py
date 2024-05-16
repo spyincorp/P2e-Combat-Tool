@@ -13,7 +13,7 @@ class creature:
         self.max = max
     
     def getNPC(self):
-        df = beastiary_to_dataframe()
+        df = pd.read_csv('Data\BeastiaryCsv\Beastiary.csv')
         mask = df['Traits'].apply(lambda x: 'humanoid' in x)
         npcs =df[mask]
         return(npcs)
@@ -31,7 +31,7 @@ class creature:
 
             print(out)            
         else:
-            df = beastiary_to_dataframe()
+            df = pd.read_csv('Data\BeastiaryCsv\Beastiary.csv')
             mask = (df['Level'] >= self.min) & (df['Level'] <= self.max)
             rangedf =df[mask]
             rc =rangedf.sample(n=1)
